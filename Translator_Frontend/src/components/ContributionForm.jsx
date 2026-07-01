@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { contribute } from "../services/contributionService";
+import { contribute } from "../services/ContributionService";
 
 export default function ContributionForm() {
   const [igbo, setIgbo] = useState("");

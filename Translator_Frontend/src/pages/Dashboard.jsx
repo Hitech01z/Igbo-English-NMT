@@ -5,7 +5,7 @@ import DatasetGrowthChart from "../components/DatasetGrowthChart";
 import DomainChart from "../components/DomainChart";
 import LoadingSpinner from "../components/LoadingSpinner";
 
-import { getDashboardStats } from "../services/dashboardService";
+import { getDashboardStats } from "../services/DashboardService";
 
 export default function Dashboard() {
   const [stats, setStats] = useState(null);

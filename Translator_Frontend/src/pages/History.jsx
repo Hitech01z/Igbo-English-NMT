@@ -4,7 +4,7 @@ import LoadingSpinner from "../components/LoadingSpinner";
 
 import {
   getHistory
-} from "../services/historyService";
+} from "../services/HistoryService";
 
 export default function History() {
 

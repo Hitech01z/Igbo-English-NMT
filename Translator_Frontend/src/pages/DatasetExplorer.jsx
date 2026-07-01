@@ -5,7 +5,7 @@ import SearchBar from "../components/SearchBar";
 import FilterBar from "../components/FilterBar";
 import LoadingSpinner from "../components/LoadingSpinner";
 
-import { getDataset } from "../services/datasetService";
+import { getDataset } from "../services/DatasetService";
 
 export default function DatasetExplorer() {
   const [rows, setRows] = useState([]);
