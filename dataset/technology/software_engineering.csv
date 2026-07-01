@@ -1,0 +1,31 @@
+igbo,english,domain,source
+Software Engineering,Software Engineering,technology,manual
+System Design,System Design,technology,manual
+Requirement,Requirement,technology,manual
+Analysis,Analysis,technology,manual
+Implementation,Implementation,technology,manual
+Testing,Testing,technology,manual
+Maintenance,Maintenance,technology,manual
+Deployment,Deployment,technology,manual
+Documentation,Documentation,technology,manual
+Project,Project,technology,manual
+Sprint,Sprint,technology,manual
+Agile,Agile,technology,manual
+Scrum,Scrum,technology,manual
+Bug,Bug,technology,manual
+Feature,Feature,technology,manual
+Release,Release,technology,manual
+Update,Update,technology,manual
+Repository,Repository,technology,manual
+GitHub,GitHub,technology,manual
+GitLab,GitLab,technology,manual
+Branch,Branch,technology,manual
+Merge,Merge,technology,manual
+Pull Request,Pull Request,technology,manual
+Code Review,Code Review,technology,manual
+Architecture,Architecture,technology,manual
+Module,Module,technology,manual
+Component,Component,technology,manual
+Workflow,Workflow,technology,manual
+Lifecycle,Lifecycle,technology,manual
+Development Team,Development Team,technology,manual

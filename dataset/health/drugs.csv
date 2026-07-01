@@ -1,0 +1,31 @@
+igbo,english,domain,source
+Ọgwụ,Medicine,health,manual
+Mkpụrụ Ọgwụ,Tablet,health,manual
+Capsule,Capsule,health,manual
+Syrup,Syrup,health,manual
+Injection,Injection,health,manual
+Paracetamol,Paracetamol,health,manual
+Ibuprofen,Ibuprofen,health,manual
+Antibiotic,Antibiotic,health,manual
+Antimalarial,Antimalarial Drug,health,manual
+Vitamin,Vitamin,health,manual
+Dose,Dosage,health,manual
+Prescription,Prescription,health,manual
+Onye Na-enye Ọgwụ,Pharmacist,health,manual
+Ụlọ Ọgwụ,Pharmacy,health,manual
+Mgbochi Ọrịa,Vaccine,health,manual
+Immunization,Immunization,health,manual
+Ọgwụ Mgbu,Pain Reliever,health,manual
+Ọgwụ Nchekwa Ahụ,Supplement,health,manual
+Mgbochi Nsị,Antiseptic,health,manual
+Bandeeji,Bandage,health,manual
+Insulin,Insulin,health,manual
+Drip,Intravenous Fluid,health,manual
+Sedative,Sedative,health,manual
+Anaesthesia,Anaesthesia,health,manual
+Nlekọta Ọgwụ,Medication Management,health,manual
+Mmeghachi Ọgwụ,Drug Reaction,health,manual
+Nchekwa Ọgwụ,Drug Storage,health,manual
+Ụbọchị Ngwụcha Ọgwụ,Expiry Date,health,manual
+Ọgwụ Akwụkwọ,Prescription Drug,health,manual
+Ọgwụ Na-enweghị Prescription,Over-the-Counter Drug,health,manual

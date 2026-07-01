@@ -1,0 +1,1845 @@
+igbo,english
+Onye ọrụ ugbo gara n'ubi.,The farmer went to the farm.
+Ha kụrụ ọka.,They planted maize.
+Mmiri ozuzo dara nke ọma.,It rained well.
+A na-akụ ji n'oge opupu ihe ubi.,Yam is planted during the planting season.
+Ehi ahụ na-ata ahịhịa.,The cow is grazing.
+Ha na-akọ ala.,They are cultivating the land.
+Nri anụmanụ dị mkpa.,Animal feed is important.
+A na-azụ ọkụkọ n'ebe a.,Chickens are raised here.
+Akwụkwọ nri toro nke ọma.,The vegetables grew well.
+Ha chịkọtara mkpụrụ osisi.,They harvested fruits.
+A na-eji fatịlaịza eme ka ala dị mma.,Fertilizer improves the soil.
+Ubi ahụ buru ibu.,The farm is large.
+Ana m akụ ose.,I am planting pepper.
+Ha na-azụ ewu.,They are raising goats.
+Osikapa dị njikere maka owuwe ihe ubi.,The rice is ready for harvest.
+Onye ugbo gara ugbo taa,The farmer went to the farm today
+Anyi kụrụ ọka n'ubi,We planted maize on the farm
+Ji toro nke ọma,Yam grew well
+Mmiri ozuzo nyere aka n'ugbo,Rainfall helped the farm
+A na-eji fatịlaịza eme ka ihe too nke ọma,Fertilizer helps crops grow well
+Anyi ga-akọ ugbo n'afọ a,We will farm this year
+Ubi ahụ buru ibu,The farm is large
+A kụrụ osikapa n'ubi,Rice was planted on the farm
+A ga-akpọkọta ihe ubi n'izu ọzọ,The harvest will be gathered next week
+Onye ugbo nwere ọtụtụ ihe ubi,The farmer has many crops
+Ọrụ Ugbo,Farming
+Onye Ugbo,Farmer
+Ubi,Farm
+Ala,Land
+Ịkụ Ihe,Planting
+Owuwe Ihe,Uharvest
+Fatịlaịza,Fertilizer
+Mmiri,Irrigation Water
+Ngwaọrụ Ugbo,Farm Tools
+Traktọ,Tractor
+Mkpụrụ Osisi,Seed
+Nri Osisi,Plant Nutrients
+Mmepe Ugbo,Agricultural Development
+Ọrụ Ubi,Cultivation
+Nlekọta Osisi,Crop Management
+Ahịhịa,Weed
+Ịkpụ Ahịhịa,Weeding
+Ọrụ Ugbo Ọgbara Ọhụrụ,Modern Farming
+Ngwaọrụ Ịkụ Ihe,Planting Equipment
+Nsonaazụ Ugbo,Farm Yield
+Ọrụ ugbo,Farming
+Ugbo,Farm
+Onye ugbo,Farmer
+Ọka,Maize
+Ji,Yam
+Akpụ,Cassava
+Osikapa,Rice
+Akwukwo nri,Vegetable
+Mkpụrụ osisi,Fruit
+Anyi na-azụ ewu,We rear goats
+Anyi nwere ọtụtụ ọkụkọ,We have many chickens
+Ehi ahụ dị ike,The cow is healthy
+A na-enye anụmanụ nri kwa ụbọchị,Animals are fed daily
+Ọkụkọ ahụ tinyere akwa,The chicken laid eggs
+Anyi na-elekọta anụmanụ nke ọma,We take good care of animals
+Nri anụmanụ dị mkpa,Animal feed is important
+Anyi rere ụfọdụ ewu,We sold some goats
+Ehi ahụ mụrụ nwa,The cow gave birth
+Ugbo anụmanụ bara uru,Livestock farming is profitable
+Anyị na-eme emume ọdịnala.,We are celebrating a cultural festival.
+Ndị mmadụ yi akwa ọdịnala.,People wore traditional clothes.
+A kụrụ egwu ọdịnala.,Traditional music was played.
+Ha gbara egwú.,They danced.
+Omenala anyị bara uru.,Our culture is valuable.
+A na-asụ Igbo n'ebe a.,Igbo is spoken here.
+Ha gara ahịa ọdịnala.,They visited the traditional market.
+Nna ochie kwuru akụkọ.,The elder told a story.
+Ụmụaka mụtara ilu Igbo.,The children learned Igbo proverbs.
+Emume ahụ jupụtara n'ọṅụ.,The festival was full of joy.
+Amamihe Arụrụ arụ,Artificial Intelligence
+Mmụta Igwe,Machine Learning
+Mmụta Miri Emi,Deep Learning
+Netwọkụ Akwara,Neural Network
+Data,Data
+Nhazi Data,Data Processing
+Nchịkọta Data,Data Collection
+Ọmụmatụ,Algorithm
+Ọzụzụ Model,Model Training
+Nnwale Model,Model Evaluation
+Ihe Nlereanya,Model
+Nkọwa,Prediction
+Ntinye,Input
+Nsonaazụ,Output
+Akara,Token
+Nkewa Okwu,Tokenization
+Asụsụ,Language
+Ntụgharị Asụsụ,Translation
+Nchekwa Data,Dataset
+Mkpado Data,Data Labeling
+Nchekwa Model,Model Saving
+Mmegharị Model,Model Loading
+Ọmụmụ,Learning
+Nkuzi,Training
+Nnyocha,Evaluation
+Mgbakọ,Computation
+Ọmụmụ Akpaaka,Automatic Learning
+Nkwado Data,Data Augmentation
+Nlele,Validation
+Nnwale,Testing
+Ọnụego Mụta,Learning Rate
+Ọnụọgụ Batch,Batch Size
+Epoch,Epoch
+Ọnụahịa Loss,Loss Function
+Optimizer,Optimizer
+Transformer,Transformer
+Self Attention,Self Attention
+Encoder,Encoder
+Decoder,Decoder
+Embedding,Embedding
+Vocabulary,Nkọwa Okwu
+Corpus,Nchịkọta Okwu
+Sentence,Ahịrịokwu
+Word,Okwu
+Character,Mkpụrụedemede
+Translation Model,Nlereanya Ntụgharị Asụsụ
+Sequence,Nsochi
+Vector,Vector
+Dimension,Dimension
+Attention,Nlebara Anya
+Context,Nkowa
+Hidden Layer,Oyi Akụkụ
+Feature,Njirimara
+Classification,Nkewa
+Generation,Mepụta
+Inference,Nkọwa Model
+Backpropagation,Mgbasa Azụ
+Gradient,Nkewa Gradient
+Optimization,Nkwalite
+Parameter,Parameter
+Hyperparameter,Hyperparameter
+Vocabulary Size,Nha Vocabulary
+Language Pair,Njikọta Asụsụ
+Source Language,Asụsụ Isi
+Target Language,Asụsụ Ebumnuche
+Preprocessing,Nhazi Mbụ
+Normalization,Nhazi Nkịtị
+Cleaning,Nhicha
+Sentence Pair,Di Ahịrịokwu
+Parallel Corpus,Parallel Corpus
+Monolingual Corpus,Monolingual Corpus
+Iterative Training,Ọzụzụ Ugboro Ugboro
+Checkpoint,Ebe Nchekwa
+GPU,GPU
+CPU,CPU
+Memory,Nchekwa
+Accuracy,Izi Ezi
+BLEU Score,BLEU Score
+Evaluation Metric,Ntụle
+Prediction Output,Nsonaazụ Amụma
+Text Generation,Mepụta Okwu
+Natural Language Processing,Nhazi Asụsụ Nkịtị
+Sequence Model,Sequence Model
+Context Vector,Context Vector
+Token ID,Token ID
+Vocabulary Mapping,Mapping Vocabulary
+Embedding Layer,Embedding Layer
+Decoder Output,Nsonaazụ Decoder
+Encoder State,Ọnọdụ Encoder
+Fine Tuning,Nkwalite Model
+Transfer Learning,Transfer Learning
+Translation Quality,Ogo Ntụgharị Asụsụ
+Language Model,Language Model
+Corpus Statistics,Corpus Statistics
+Neural Translation,Ntụgharị Neural
+Artificial Intelligence System,Sistemụ AI
+Nwa akwụkwọ nọ n'ụlọ akwụkwọ.,The student is in school.
+Onye nkụzi na-akụzi mgbakọ.,The teacher is teaching mathematics.
+Ha na-agụ akwụkwọ n'ọbá akwụkwọ.,They are reading books in the library.
+Akwụkwọ a dị ọhụrụ.,This book is new.
+Ụmụ akwụkwọ na-ede ule.,Students are writing an examination.
+Onye isi ụlọ akwụkwọ bịara.,The principal arrived.
+Anyị mụtara sayensị taa.,We learned science today.
+Klas ahụ dị jụụ.,The classroom is quiet.
+Nwaanyị ahụ gụrụ akụkọ.,The girl read a story.
+Ha gara ụlọ nyocha.,They went to the laboratory.
+Onye nkụzi jụrụ ajụjụ.,The teacher asked a question.
+Ụmụaka na-amụta Bekee.,Children are learning English.
+Ana m ede ihe n'akwụkwọ m.,I am writing in my notebook.
+Ha nụrụ ihe onye nkụzi kwuru.,They heard what the teacher said.
+Ọ gụsịrị akwụkwọ nke ọma.,He graduated successfully.
+Anyị gara ọmụmụ ihe.,We attended a lesson.
+Nwa akwụkwọ ahụ meriri asọmpi.,The student won the competition.
+Ha mụtara akụkọ ihe mere eme.,They studied history.
+Akwụkwọ ndị a bara uru.,These books are useful.
+Ụlọ akwụkwọ meghere n'ụtụtụ.,The school opened in the morning.
+Aga m ede ule echi,I will write an examination tomorrow
+Nsonaazu ule aputala,The examination result has been released
+Anom na akwadebe maka ule,I am preparing for an examination
+Ule a siri ike,This examination is difficult
+Aga m agu akwukwo abalị a,I will study tonight
+Anyi nwere ule mgbako taa,We had a mathematics examination today
+Enwetaram akara oma,I obtained a good score
+Akara m ka mma ugbu a,My grades are better now
+Anyi natara nsonaazu anyi,We received our results
+Aga m eme nke oma n'ule,I will perform well in the examination
+Onye nkuzi nyochara akwukwo ule anyi,The teacher marked our examination scripts
+Anyi mechara ule anyi,We completed our examination
+Aga m ede ule ikpeazu,I will write the final examination
+Ule semester ga amalite n'izu na-abia,Semester examinations will begin next week
+Akwukwo ule di njikere,The examination papers are ready
+Aga m akwadebe nke oma maka ule,I will prepare properly for the examination
+Anyi malitere ule n'oge,We started the examination on time
+Onye nlekota ule nyochara akwukwo anyi,The invigilator checked our papers
+Nwa akwukwo ahu gafere ule,The student passed the examination
+O dara ule ahu,He failed the examination
+Akara m di elu,My score is high
+Akara m di ala,My score is low
+Ajụjụ nile sitere n'akwukwo,All questions came from the textbook
+Anyi nwetara nsonaazu n'izu a,We received results this week
+Nkwadebe na-eweta ezigbo nsonaazu,Preparation leads to good results
+Nnwale,Examination
+Nnyocha,Test
+Ajụjụ,Question
+Azịza,Answer
+Mpempe Ajụjụ,Question Paper
+Nsonaazụ,Result
+Akara,Score
+Pasent,Percentage
+Nnyocha N'etiti Semester,Mid Semester Test
+Nnwale Ikpeazụ,Final Examination
+Nnyocha Ọnụ,Oral Test
+Nnyocha Ederede,Written Test
+Nlekọta Nnwale,Examination Supervision
+Onye Nlekọta Nnwale,Invigilator
+Ndebanye Nnwale,Examination Registration
+Ụbọchị Nnwale,Examination Date
+Ụlọ Nnwale,Examination Hall
+Mmejọ Nnwale,Examination Malpractice
+Nsonaazụ Ọma,Good Result
+Nsonaazụ Ọjọọ,Poor Result
+Ịga Nke Ọma,Pass
+Ịda Nnwale,Fail
+Ntụle Akara,Grading
+A+,A Plus
+B+,B Plus
+C,Credit
+D,Pass Grade
+F,Fail Grade
+Nyocha Nsonaazụ,Result Analysis
+Asambodo Nsonaazụ,Statement of Result
+Anom na klas online,I am attending an online class
+Ebudaram ihe omumu ahu,I downloaded the course material
+Aga m elele vidio nkuzi,I will watch the lecture video
+Anyi jiri Zoom mee klas,We used Zoom for the class
+Onye nkuzi zipuru ihe omumu,The teacher sent the learning material
+Aga m ebugo assignment m,I will upload my assignment
+Anyi nwere ule online,We have an online test
+M natara ozi email sitere n'aka onye nkuzi,I received an email from the lecturer
+Ikpo okwu mmuta a bara uru,This learning platform is useful
+Anyi sonyeere webinar taa,We attended a webinar today
+Aga m abanye na portal ulo akwukwo,I will log into the school portal
+Aga m ebudata akwukwo dijital,I will download the digital textbook
+Enwere nsogbu internet,There is an internet problem
+Anyi kparita uka na forum mmuta,We discussed in the learning forum
+Nkuzi a di na sistemu online,This lesson is available online
+Anyi jiri Google Classroom muta ihe,We used Google Classroom to learn
+Nkuzi a di na portal,This lesson is on the portal
+Aga m ebudata akwukwo PDF,I will download the PDF document
+Vidiyo a bara uru nke ukwuu,This video is very useful
+Anyi jiri email nata ozi,We received information through email
+Onye nkuzi bulitere ihe omumu,The instructor uploaded learning materials
+Anyi gara webinar taa,We attended a webinar today
+Aga m lelee vidiyo ahu ozo,I will watch the video again
+Anyi mere quiz online,We completed an online quiz
+Portal ulo akwukwo na aru oru nke oma,The school portal is functioning properly
+Mmụta N'Ịntanet,Online Learning
+Nkuzi N'Ịntanet,Online Teaching
+Ụlọ Akwụkwọ Dijitalụ,Digital Classroom
+Nkuzi N'ebe Dị Iche,Ict Based Learning
+Mmụta Site Na Ekwentị,Mobile Learning
+Mmụta Site Na Kọmputa,Computer Based Learning
+Nyocha N'Ịntanet,Online Assessment
+Nnwale N'Ịntanet,Online Examination
+Ọbá Akwụkwọ Dijitalụ,Digital Library
+Ndekọ Mmụta,Learning Record
+Ọmụmụ N'onwe Onye,Self Learning
+Nkuzi Vidiyo,Video Lecture
+Nkuzi Ọnụ,Audio Lecture
+Nkuzi Dị Ndụ,Live Class
+Nnyefe Ihe Omụmụ,Course Delivery
+Nlekọta Mmụta,Learning Management
+Ndebanye Akwụkwọ,Course Registration
+Ihe Omụmụ,Course Material
+Nkwukọrịta Nkuzi,Educational Communication
+Ntụle Mmụta,Learning Evaluation
+Aga m arụ ọrụ m n'afọ ikpeazụ,I will work on my final year project
+Isiokwu oru ngo m bu ntụgharị asụsụ igwe,My project topic is machine translation
+Anyi na-eji ọgụgụ isi arụ ọrụ ntụgharị asụsụ,We use artificial intelligence for translation
+Asụsụ Igbo bụ asụsụ nwere obere data,Igbo is a low-resource language
+Nchọpụta a na-elekwasị anya na asụsụ Igbo,This research focuses on the Igbo language
+Anyi na-ewu usoro ntụgharị asụsụ,We are building a translation system
+Usoro a na-eji neural network,This system uses a neural network
+Anyi na-anakọta data maka nyocha,We are collecting data for research
+Data dị mkpa maka ịzụlite model,Data is important for training a model
+Anyi chọrọ ezigbo dataset,We need a quality dataset
+A na-eji dataset a zụọ model,This dataset is used to train a model
+Anyi ga-enyocha arụmọrụ model,We will evaluate the model performance
+BLEU score na-atụ ogo ntụgharị asụsụ,BLEU score measures translation quality
+Anyi jiri BLEU score nyochaa model,We used BLEU score to evaluate the model
+Nsonaazụ gosiri mmezi dị ukwuu,The results showed significant improvement
+Iterative back translation na-enyere aka imezi model,Iterative back translation helps improve the model
+Anyi mepụtara data synthetic,We generated synthetic data
+Data synthetic na-eme ka dataset buru ibu,Synthetic data increases dataset size
+Anyi jikọtara data ọhụrụ na data mbụ,We combined new data with the original data
+Model ọhụrụ karịrị nke mbụ arụmọrụ,The new model outperformed the previous one
+Natural Language Processing bụ akụkụ AI,Natural Language Processing is a branch of AI
+Anyi na-amụ NLP n'ime oru ngo a,We study NLP in this project
+Neural Machine Translation na-eji deep learning,Neural Machine Translation uses deep learning
+Model ahụ mụtara site na ọtụtụ atụ,The model learned from many examples
+Anyi haziri dataset tupu ọzụzụ,We cleaned the dataset before training
+A wepụrụ data ugboro ugboro,Duplicate data was removed
+Anyi kewara dataset n'ime train na test,We split the dataset into train and test sets
+Data validation nyere aka nyochaa model,Validation data helped evaluate the model
+Anyi jiri GPU mee ọzụzụ model,We used a GPU to train the model
+Ọzụzụ model were ọtụtụ awa,Model training took several hours
+Anyi chekwara model ikpeazụ,We saved the final model
+Model ahụ nwere ike ịtụgharị Igbo gaa Bekee,The model can translate Igbo to English
+Model ahụ nwekwara ike ịtụgharị Bekee gaa Igbo,The model can also translate English to Igbo
+Anyi nyochara njehie ntụgharị asụsụ,We analyzed translation errors
+Nsonaazụ ikpeazụ dị mma,The final results are good
+Anyi ga-emezi model n'ọdịnihu,We will improve the model in the future
+Nchọpụta a bara uru nye mmepe asụsụ Igbo,This research is useful for Igbo language development
+Teknụzụ asụsụ na-eto ngwa ngwa,Language technology is growing rapidly
+Asụsụ mpaghara kwesịrị inweta nkwado teknụzụ,Local languages deserve technological support
+Nchọpụta a na-enyere nchekwa asụsụ aka,This research supports language preservation
+Orụ Ngo Afọ Ikpeazụ,Final Year Project
+Nnyocha,Research
+Akwụkwọ Nnyocha,Research Paper
+Nkọwa Nsogbu,Problem Statement
+Ebumnuche Nnyocha,Research Objective
+Ajụjụ Nnyocha,Research Question
+Usoro Nnyocha,Research Methodology
+Nyocha Akwụkwọ,Literature Review
+Nyocha Data,Data Analysis
+Mmepe Sistem,System Development
+Nnwale Sistem,System Testing
+Nsonaazụ,Results
+Mkparịta Ụka,Discussion
+Mmechi,Conclusion
+Aro,Recommendation
+Nchịkọta Orụ,Project Summary
+Onye Nlekọta,Supervisor
+Onye Nnyocha,Researcher
+Nchekwa Data,Data Storage
+Ntụgharị Asụsụ Igbo Bekee,Igbo English Translation
+Self Attention Mechanism,Self Attention Mechanism
+Dataset,Dataset
+Corpus,Corpus
+Machine Translation,Ntụgharị Asụsụ Akpaaka
+Artificial Intelligence,Amamihe Arụrụ Arụ
+NLP na-enyere kọmputa ịghọta asụsụ,NLP helps computers understand language
+Asụsụ mmadụ siri ike nghọta,Human language is difficult to understand
+NLP bụ akụkụ AI,NLP is a branch of AI
+Anyi na-arụ ọrụ na asụsụ Igbo,We are working with the Igbo language
+A na-eji tokenizer kewaa ederede,A tokenizer splits text into tokens
+Anyi na-ewepụ mkpụrụokwu na-adịghị mkpa,We remove unnecessary words
+Dataset anyị nwere ederede Igbo na Bekee,Our dataset contains Igbo and English text
+NLP na-akwado ntụgharị asụsụ,NLP supports language translation
+Anyi na-amụ semantics na syntax,We study semantics and syntax
+A ga-enyocha ogo ntụgharị asụsụ,Translation quality will be evaluated
+Nhazi Asụsụ Nkịtị,Natural Language Processing
+Ntụgharị Asụsụ,Machine Translation
+Nhazi Okwu,Text Processing
+Mgbakọ Okwu,Word Count
+Nchịkọta Okwu,Corpus
+Nyocha Mmetụta,Sentiment Analysis
+Nkọwapụta Okwu,Text Classification
+Ịmata Aha,Named Entity Recognition
+Nchọpụta Asụsụ,Language Detection
+Nkewa Ahịrịokwu,Sentence Segmentation
+Nchịkọta Okwu Mgbọrọgwụ,Stemming
+Nhazi Lemma,Lemmatization
+Ntụgharị Okwu,Word Embedding
+Nchekwa Okwu,Vocabulary
+Nyocha Ahịrịokwu,Sentence Analysis
+Nyocha Okwu,Word Analysis
+Nnyocha Nkọwa,Semantic Analysis
+Nnyocha Grama,Syntactic Analysis
+Nghọta Asụsụ,Language Understanding
+Ọgbọ Okwu,Text Generation
+Mepụta Ahịrịokwu,Sentence Generation
+Nyocha Mkparịta Ụka,Dialogue Analysis
+Chatbot,Chatbot
+Ajụjụ na Azịza,Question Answering
+Nchịkọta Akụkọ,Text Summarization
+Ntụgharị Okwu N'otu Asụsụ,Paraphrasing
+Nyocha Mkpụrụedemede,Character Analysis
+Nchọpụta Njehie,Error Detection
+Mmezi Njehie,Error Correction
+Nkọwa Okwu,Word Meaning
+Njikọ Okwu,Word Association
+Nnyocha Mkpọpụta,Speech Analysis
+Nchọpụta Isiokwu,Topic Detection
+Nchọpụta Isi Akụkọ,Topic Modeling
+Anom na klaasi otu,I am in primary one
+Anom na klaasi abuo,I am in primary two
+Anom na klaasi ato,I am in primary three
+Anom na klaasi ano,I am in primary four
+Anom na klaasi ise,I am in primary five
+Anom na klaasi isii,I am in primary six
+Onye nkuzi anyi mara ezigbo ihe,Our teacher is knowledgeable
+Anyi gara ulo akwukwo taa,We went to school today
+Anyi guru sayensi taa,We studied science today
+Anyi guru mgbako taa,We studied mathematics today
+Ụlọ Akwụkwọ Praịmarị,Primary School
+Nwa Akwụkwọ,Pupil
+Onye Nkụzi,Teacher
+Klas,Class
+Ihe Omụmụ,Lesson
+Akwụkwọ,Book
+Pensụl,Pencil
+Pensụl Mkpisi,Eraser
+Tebụl,Table
+Oche,Chair
+Bọdụ,Board
+Ọgụgụ,Reading
+Ide Ihe,Writing
+Mgbakọ,Mathematics
+Sayensị,Science
+Bekee,English Language
+Igbo,Igbo Language
+Akụkọ Ihe Mere Eme,History
+Egwuregwu,Sports
+Ọmụmụ Ihe,Learning
+Nkuzi,Teaching
+Ụbọchị Akwụkwọ,School Day
+Ezumike,Break Time
+Ọrụ Ụlọ,Homework
+Ndị Mụrụ Ụmụakwụkwọ,Parents
+Nlekọta Nwa,Child Care
+Akwụkwọ Ndebanye,Attendance Register
+Ụlọ Klas,Classroom
+Aga m ede WAEC,I will write WAEC
+Aga m ede NECO,I will write NECO
+Aga m ede JAMB,I will write JAMB
+Biology bu isiokwu m kacha amasiri,Biology is my favourite subject
+Kemistri siri ike,Chemistry is difficult
+Physics na-ato m uto,Physics interests me
+Anyi nwere practical taa,We have practical today
+Onye nkuzi sayensi abiara taa,The science teacher came today
+Akwukwo m di n'akwukwo nchekwa m,My notebook is in my school bag
+Anyi na akwadebe maka ule,We are preparing for examinations
+Ụlọ Akwụkwọ Sekọndrị,Secondary School
+Nwa Akwụkwọ,Student
+Isi Nkụzi,Principal
+Vice Principal,Vice Principal
+Nkuzi,Lesson
+Fiziks,Physics
+Kemistri,Chemistry
+Bayoloji,Biology
+Gọọmenti,Government
+Nchịkọta Ahịa,Economics
+Akaụntụ,Accounting
+Geography,Geography
+WAEC,WAEC
+NECO,NECO
+JAMB,JAMB
+Ụlọ Nkuzi,Classroom
+Ọbá Akwụkwọ,Library
+Laboratorị,Laboratory
+Ọrụ Ụlọ,Assignment
+Asambodo,Certificate
+Ngụsị Akwụkwọ,Graduation
+Mmepe Nwa,Student Development
+Nduzi,Guidance
+Ntụgharị asụsụ dị ezigbo mkpa,Translation is very important
+Anyi na-ewu translator ọhụrụ,We are building a new translator
+A ga-atụgharị ahịrịokwu a,This sentence will be translated
+Asụsụ Igbo chọrọ nkwado teknụzụ,The Igbo language needs technological support
+Model ahụ nwere ike ịtụgharị ederede,The model can translate text
+Anyi na-atụgharị Bekee gaa Igbo,We translate English into Igbo
+Anyi na-atụgharị Igbo gaa Bekee,We translate Igbo into English
+Ogo ntụgharị asụsụ dị mkpa,Translation quality is important
+A na-eji BLEU score tụọ ogo ntụgharị,A BLEU score measures translation quality
+Ntụgharị a ziri ezi,This translation is accurate
+igbo,english
+Ndewo,Hello
+Kedu ka ị mere?,How are you?
+Ụtụtụ ọma,Good morning
+Ehihie ọma,Good afternoon
+Mgbede ọma,Good evening
+Ka ọ dị,Welcome
+Daalụ,Thank you
+Biko,Please
+Ndo,Sorry
+Ka ọ dị mma?,Is it okay?
+Aha m bụ John,My name is John
+Kedu aha gị?,What is your name?
+Ebee ka ị si?,Where are you from?
+Anọ m n'ụlọ akwụkwọ,I am in school
+Achọrọ m ịmụ,I want to learn
+Ọ bụ eziokwu,It is true
+Ọ bụghị eziokwu,It is not true
+Anọ m ebe a,I am here
+Bịa ebe a,Come here
+Gaa ụlọ,Go home
+Abum nwa akwukwo mahadum,I am a university student
+Enwerem lecture n'ututu,I have a lecture this morning
+Enwerem seminar echi,I have a seminar tomorrow
+Anyi gara laboratory taa,We went to the laboratory today
+Anyi nyefere assignment anyi,We submitted our assignment
+Aga m echebe project m,I will defend my project
+Prọfesọ anyi nyere anyi oru,Our professor gave us an assignment
+Anyi na-eme nyocha,We are conducting research
+Anyi nwere workshop n'izu a,We have a workshop this week
+Aga m agụ maka ule semester,I will study for the semester examination
+Anyi nwere tutorial taa,We have a tutorial today
+Aga m aga lecture hall,I will go to the lecture hall
+Nwa akwukwo nile no na lecture,All students are in the lecture
+Onye nkuzi juru anyi ajuju,The lecturer asked us questions
+Anyi zara ajuju nile,We answered all the questions
+Aga m ede report,I will write a report
+Anyi nyefere report anyi,We submitted our report
+Aga m eme presentation,I will make a presentation
+Anyi gosiputara nchoputa anyi,We presented our findings
+Prọfesọ toro oru anyi,The professor praised our work
+Anyi nwere practical laboratory,We have a laboratory practical
+Nchoputa a metutara mmuta,This research concerns education
+Anyi gara ogbako omumu,We attended an academic conference
+Aga m ebipụta nchoputa m,I will publish my research
+Anyi jiri SPSS nyochaa data,We used SPSS to analyze data
+Anyi jiri Excel hazie data,We used Excel to organize data
+Onye ndu anyi nyochara chapter mbu,Our supervisor reviewed chapter one
+Aga m ede chapter ise,I will write chapter five
+Anyi chotara ihe di mkpa,We discovered important findings
+Nchoputa anyi gosiri ezigbo nsonaazu,Our research produced good results
+Mahadum,University
+Nwa Akwụkwọ Mahadum,University Student
+Onye Nkụzi,Lecturer
+Prọfesọ,Professor
+Ngalaba,Department
+Fakọlti,Faculty
+Dean,Dean
+Vice Chancellor,Vice Chancellor
+Registrar,Registrar
+Bursar,Bursar
+Ọmụmụ Nna Ukwu,Undergraduate Study
+Ọmụmụ Nna Ochie,Postgraduate Study
+Nna Ukwu Mbụ,First Degree
+Masta,Masters Degree
+Doktọret,Doctorate Degree
+Ndebanye Akwụkwọ,Registration
+Ụgwọ Akwụkwọ,School Fees
+Transcript,Transcript
+Semester,Semester
+Afọ Akwụkwọ,Academic Session
+Nkuzi,Lecture
+Ụlọ Nkuzi,Lecture Hall
+Ndị Nkuzi,Academic Staff
+Ndị Ọrụ,Non Academic Staff
+Nchịkọta GPA,GPA Calculation
+Nchekwa Nsonaazụ,Result Management
+Akwụkwọ Ngụsị Akwụkwọ,Certificate
+Aha m bụ Chinedu,My name is Chinedu
+Abụ m onye Enugu,I am from Enugu
+Kedu ebe ị na-aga?,Where are you going?
+Ana m aga ahịa,I am going to the market
+Ị riela nri?,Have you eaten?
+Ee eriela m,Yes I have eaten
+Mba eribeghị m,No I have not eaten
+Kedu ihe ị chọrọ?,What do you want?
+Achọrọ m mmiri,I want water
+Achọrọ m nri,I want food
+Enwere m agụụ,I am hungry
+Enwere m akpịrị ịkpọ nkụ,I am thirsty
+Biko nyere m aka,Please help me
+Enweghị nsogbu,No problem
+Kedu oge ọ bụ?,What time is it?
+Ọ bụ elekere atọ,It is three o'clock
+Anyi ga-ahụ echi,We will meet tomorrow
+Ka ọ dị ugbu a?,How is everything now?
+Ezinụlọ,Family
+Nna,Father
+Nne,Mother
+Nwa,Child
+Nwanne nwoke,Brother
+Nwanne nwanyị,Sister
+Nna nna,Grandfather
+Nne nne,Grandmother
+Di,Husband
+Nwunye,Wife
+Nwa nwoke,Son
+Nwa nwanyị,Daughter
+Nwanne,Relative
+Ezigbo enyi,Close friend
+Nwa nwanne,Nephew
+Nwa nwanne nwanyị,Niece
+Ezinụlọ m,My family
+A hụrụ m ezinụlọ m n'anya,I love my family
+Anyi bụ ezinụlọ ọma,We are a good family
+Nna m nọ n'ụlọ,My father is at home
+Ka chi fo,Good night
+Kedu?,How are you?
+Adị m mma,I am fine
+Nnọọ,Welcome
+Ka ọ dị?,How is it?
+Ọ dị mma,It is fine
+Ka emesia,See you later
+Nọrọ nke ọma,Stay well
+Jisie ike,Take care
+Ka ọ dị gị?,How are you doing?
+Ekele m gị,I greet you
+Daalụ nke ukwuu,Thank you very much
+Enwere m obi ụtọ,I am happy
+Ọ dị m nwute,I am sorry
+Ụgbọ ala,Car
+Bọs,Bus
+Ụgbọ elu,Airplane
+Ụgbọ mmiri,Boat
+Okporo ụzọ,Road
+Onye ọkwọ ụgbọ ala,Driver
+Tiketi,Ticket
+Njem,Journey
+Ụzọ,Route
+Ebe ụgbọ ala na-akwụsị,Bus Stop
+Ọdụ ụgbọ elu,Airport
+Ọdụ ụgbọ mmiri,Seaport
+Ana m eje ije,I am walking
+Ana m ewere ụgbọ ala,I am taking a car
+Njem ahụ dị ogologo,The journey is long
+Kedu ebe ọdụ ụgbọ ala dị?,Where is the bus stop?
+Bọs ahụ eruola,The bus has arrived
+Anyi na-eme njem taa,We are travelling today
+Ụgbọ ala ahụ mebiri,The car broke down
+Njem ọma,Safe journey
+Gọvanọ kwuru okwu taa.,The governor spoke today.
+A họpụtara onye isi ọhụrụ.,A new leader was elected.
+Ụlọ omeiwu zukọrọ.,The parliament held a meeting.
+Iwu ọhụrụ ahụ amalitela.,The new law has taken effect.
+Ụmụ amaala nwere ikike.,Citizens have rights.
+A ga-eme ntuli aka echi.,The election will take place tomorrow.
+Onye isi ala bịara obodo ahụ.,The president visited the town.
+Minista ahụ nyere akụkọ.,The minister gave a report.
+A na-anakọta ụtụ isi.,Taxes are collected.
+A ga-ewu ụzọ ọhụrụ.,A new road will be constructed.
+Ọfịs ahụ meghere n'ụtụtụ.,The office opened in the morning.
+A kwadoro mmefu ego.,The budget was approved.
+A ga-eme nyocha.,An investigation will be conducted.
+Ha bịanyere aka na nkwekọrịta.,They signed the agreement.
+Obodo chọrọ mmepe.,The community needs development.
+Ọrịa,Disease
+Ịba,Malaria
+Typhoid,Typhoid Fever
+Ọrịa Shuga,Diabetes
+Ọbara Mgbali Elu,Hypertension
+Ọrịa Obi,Heart Disease
+Ọrịa Cancer,Cancer
+Ọrịa Akpịrị,Throat Infection
+Ọrịa Ntị,Ear Infection
+Ọrịa Anya,Eye Disease
+Ọrịa Akpụkpọ Ahụ,Skin Disease
+COVID-19,COVID-19
+Ọrịa Nkụchi Ume,Asthma
+Ọrịa Ume,Pneumonia
+Tuberculosis,Tuberculosis
+Ọrịa Akụrụ,Kidney Disease
+Ọrịa Imeju,Liver Disease
+Ọrịa Obi Ọjọọ,Heart Failure
+Mgbu Isi,Headache
+Ọkụ Ahụ,Fever
+Ntụrụndụ Ahụ Ike,Recovery
+Mgbu Afọ,Stomach Pain
+Ọgbụgbọ,Vomiting
+Ọsịsa,Diarrhea
+Nsogbu Ura,Sleep Disorder
+Nsogbu Nri,Malnutrition
+Nsogbu Uche,Mental Illness
+Ịda Mbà N'obi,Depression
+Nchekasị,Anxiety
+Ọrịa Na-efe Efe,Infectious Disease
+Ọgwụ,Medicine
+Mkpụrụ Ọgwụ,Tablet
+Capsule,Capsule
+Syrup,Syrup
+Injection,Injection
+Paracetamol,Paracetamol
+Ibuprofen,Ibuprofen
+Antibiotic,Antibiotic
+Antimalarial,Antimalarial Drug
+Vitamin,Vitamin
+Dose,Dosage
+Prescription,Prescription
+Onye Na-enye Ọgwụ,Pharmacist
+Ụlọ Ọgwụ,Pharmacy
+Mgbochi Ọrịa,Vaccine
+Immunization,Immunization
+Ọgwụ Mgbu,Pain Reliever
+Ọgwụ Nchekwa Ahụ,Supplement
+Mgbochi Nsị,Antiseptic
+Bandeeji,Bandage
+Insulin,Insulin
+Drip,Intravenous Fluid
+Sedative,Sedative
+Anaesthesia,Anaesthesia
+Nlekọta Ọgwụ,Medication Management
+Mmeghachi Ọgwụ,Drug Reaction
+Nchekwa Ọgwụ,Drug Storage
+Ụbọchị Ngwụcha Ọgwụ,Expiry Date
+Ọgwụ Akwụkwọ,Prescription Drug
+Ọgwụ Na-enweghị Prescription,Over-the-Counter Drug
+Dọkịta,Doctor
+Nọọsụ,Nurse
+Ụlọ ọgwụ,Hospital
+Onye ọrịa,Patient
+Ahụ ike,Health
+Ọbara,Blood
+Nyocha,Examination
+Ọrịa,Sickness
+Nlekọta,Care
+Dọkịta bịara n'ụtụtụ.,The doctor arrived in the morning.
+Nọọsụ nyere ọgwụ.,The nurse administered medicine.
+Ahụ adịghị ya mma.,He is not feeling well.
+Ha gara ụlọ ọgwụ.,They went to the hospital.
+Nwata ahụ nwere ọkụ.,The child has a fever.
+A ga-enyocha ọbara gị.,Your blood will be tested.
+Na-aṅụ mmiri ọtụtụ.,Drink plenty of water.
+Nri ọma na-eme ka ahụ dị ike.,Good food keeps the body healthy.
+A ga-eme gị ọgwụgwọ.,You will receive treatment.
+Onye ọrịa zuru ike.,The patient rested.
+Ụlọ Ọgwụ,Hospital
+Onye Ọrịa,Patient
+Nlekọta Ọrịa,Patient Care
+Ndebanye Ọrịa,Patient Registration
+Ụlọ Nlekọta Mberede,Emergency Unit
+Ọgwụgwọ,Treatment
+Nnyocha Ahụ Ike,Medical Examination
+Ịwa Ahụ,Surgery
+Nlekọta Ahụ Ike,Healthcare
+Ụlọ Nwata,Children Ward
+Ụlọ Ndị Inyom,Maternity Ward
+Nlekọta Ndị Agadi,Elderly Care
+Nyocha Ọbara,Blood Test
+Nyocha Mmiri,Urine Test
+Ụlọ Ọgwụ Obodo,Clinic
+Ụlọ Ọgwụ Gọọmenti,Government Hospital
+Nlekọta Mberede,Emergency Care
+Nnyefe Ọrịa,Patient Referral
+Ụgbọ Mberede,Ambulance
+Nlekọta Nwaanyị Dị Ime,Antenatal Care
+Ịmụ Nwa,Child Delivery
+Nlekọta Mgbe Amuchara Nwa,Postnatal Care
+Ọgwụgwụ Ọrịa,Discharge
+Nlekọta Ahụike Obodo,Community Health
+Nkwado Ahụike,Health Support
+Nchekwa Ahụ Ike,Health Protection
+Ahụ Ike,Health
+Obi,Heart
+Ụbụrụ,Brain
+Akụrụ,Kidney
+Imeju,Liver
+Akpa Ume,Lungs
+Ọkpụkpụ,Bone
+Akwara,Muscle
+Anya,Eye
+Ntị,Ear
+Imi,Nose
+Ọnụ,Mouth
+Ezé,Tooth
+Akpụkpọ Ahụ,Skin
+Nyocha,Diagnosis
+Nnyocha Ahụ Ike,Medical Checkup
+Nyocha Laboratory,Laboratory Test
+Nsonaazụ Test,Test Result
+Mgbali Ọbara,Blood Pressure
+Ọkwa Shuga,Blood Sugar Level
+Nchekwa Ahụ Ike,Health Safety
+Mmetụta Ọgwụ,Side Effect
+Ahụ́ Ọma,Wellness
+Mgbochi Ọrịa,Disease Prevention
+Nlekọta Ahụike Obodo,Community Healthcare
+Nkwado Ahụ Ike,Health Promotion
+Kọmputa ahụ na-arụ ọrụ nke ọma,The computer is working properly
+Anyi dere ngwanrọ ọhụrụ,We developed new software
+Data ahụ echekwara nke ọma,The data was stored properly
+Ịntanetị anaghị arụ ọrụ taa,The internet is not working today
+Anyi jikọtara sava ahụ,We connected the server
+Cybersecurity,Cybersecurity
+Nchekwa Data,Data Security
+Password,Password
+Authentication,Authentication
+Encryption,Encryption
+Firewall,Firewall
+Virus,Virus
+Malware,Malware
+Spyware,Spyware
+Phishing,Phishing
+Attack,Attack
+Threat,Threat
+Risk,Risk
+Vulnerability,Vulnerability
+Hacker,Hacker
+Ethical Hacker,Ethical Hacker
+Network Security,Network Security
+Access Control,Access Control
+Data Breach,Data Breach
+Security Policy,Security Policy
+Backup,Backup
+Recovery,Recovery
+Monitoring,Monitoring
+Audit,Audit
+VPN,VPN
+Two Factor Authentication,Two Factor Authentication
+Digital Certificate,Digital Certificate
+Security Update,Security Update
+Cloud Security,Cloud Security
+Incident Response,Incident Response
+Database,Database
+Ahịrị,Row
+Kọlụm,Column
+Primary Key,Primary Key
+Foreign Key,Foreign Key
+SQL,SQL
+MySQL,MySQL
+PostgreSQL,PostgreSQL
+SQLite,SQLite
+MongoDB,MongoDB
+Query,Query
+Insert,Insert
+Update,Update
+Delete,Delete
+Select,Select
+Index,Index
+Restore,Restore
+Database Server,Database Server
+Schema,Schema
+Migration,Migration
+Record,Record
+Transaction,Transaction
+Data Integrity,Data Integrity
+Normalization,Normalization
+CSV File,CSV File
+Storage,Storage
+Kọmputa,Computer
+Ngwanrọ,Software
+Ngwaike,Hardware
+Ịntanetị,Internet
+Nchekwa,Storage
+Sava,Server
+Netwọk,Network
+Mmemme,Program
+Algorithm,Algorithm
+Mmepe Weebụ,Web Development
+Weebụsaịtị,Website
+Peeji Weebụ,Web Page
+Frontend,Frontend
+Backend,Backend
+Server,Server
+Client,Client
+HTML,HTML
+CSS,CSS
+React,React
+Vue,Vue
+Angular,Angular
+API,API
+REST API,REST API
+FastAPI,FastAPI
+Django,Django
+Authorization,Authorization
+Login,Login
+Signup,Signup
+Dashboard,Dashboard
+Deployment,Deployment
+Hosting,Hosting
+Domain Name,Domain Name
+Responsive Design,Responsive Design
+User Interface,User Interface
+User Experience,User Experience
+Navigation,Navigation
+Web Application,Web Application
+Software Engineering,Software Engineering
+System Design,System Design
+Requirement,Requirement
+Analysis,Analysis
+Implementation,Implementation
+Testing,Testing
+Maintenance,Maintenance
+Documentation,Documentation
+Project,Project
+Sprint,Sprint
+Agile,Agile
+Scrum,Scrum
+Bug,Bug
+Feature,Feature
+Release,Release
+Repository,Repository
+GitHub,GitHub
+GitLab,GitLab
+Branch,Branch
+Merge,Merge
+Pull Request,Pull Request
+Code Review,Code Review
+Architecture,Architecture
+Module,Module
+Component,Component
+Workflow,Workflow
+Lifecycle,Lifecycle
+Development Team,Development Team
+Kọmputa ahụ na-arụ ọrụ nke ọma.,The computer is working properly.
+Ana m eji ekwentị m eme ihe.,I am using my phone.
+Ịntanetị ahụ dị ngwa.,The internet is fast.
+Ha wụnyere ngwanrọ ọhụrụ.,They installed new software.
+Paswọọdụ ahụ dị nchebe.,The password is secure.
+Sava ahụ kwụsịrị ịrụ ọrụ.,The server stopped working.
+Ana m ebudata faịlụ ahụ.,I am downloading the file.
+Ana m ezipu ozi email.,I am sending an email.
+Ekwentị ọhụrụ ahụ dị mma.,The new phone is good.
+Ngwa ahụ chọrọ mmelite.,The application needs an update.
+Ana m eji Wi-Fi.,I am using Wi-Fi.
+Nchekwa data dị mkpa.,Data security is important.
+Robot ahụ na-arụ ọrụ ngwa ngwa.,The robot works quickly.
+Ana m ede koodu ọhụrụ.,I am writing new code.
+Sistemụ ahụ malitere ọzọ.,The system restarted.
+Faịlụ ahụ echekwara nke ọma.,The file was saved successfully.
+Ngwaọrụ ahụ nwere batrị ọhụrụ.,The device has a new battery.
+Ha jikọtara netwọk ahụ.,They connected the network.
+Ngwanrọ ahụ dị mfe iji.,The software is easy to use.
+Ana m echekwa akwụkwọ ahụ n'igwe ojii.,I am saving the document to the cloud.
+Onye ọrụ ugbo gara n'ubi.,The farmer went to the farm. (bt)
+Ha kụrụ ọka.,They planted maize. (bt)
+Mmiri ozuzo dara nke ọma.,It rained well. (bt)
+A na-akụ ji n'oge opupu ihe ubi.,Yam is planted during the planting season. (bt)
+Ehi ahụ na-ata ahịhịa.,The cow is grazing. (bt)
+Ha na-akọ ala.,They are cultivating the land. (bt)
+Nri anụmanụ dị mkpa.,Animal feed is important. (bt)
+A na-azụ ọkụkọ n'ebe a.,Chickens are raised here. (bt)
+Akwụkwọ nri toro nke ọma.,The vegetables grew well. (bt)
+Ha chịkọtara mkpụrụ osisi.,They harvested fruits. (bt)
+A na-eji fatịlaịza eme ka ala dị mma.,Fertilizer improves the soil. (bt)
+Ubi ahụ buru ibu.,The farm is large. (bt)
+Ana m akụ ose.,I am planting pepper. (bt)
+Ha na-azụ ewu.,They are raising goats. (bt)
+Osikapa dị njikere maka owuwe ihe ubi.,The rice is ready for harvest. (bt)
+Onye ugbo gara ugbo taa,The farmer went to the farm today (bt)
+Anyi kụrụ ọka n'ubi,We planted maize on the farm (bt)
+Ji toro nke ọma,Yam grew well (bt)
+Mmiri ozuzo nyere aka n'ugbo,Rainfall helped the farm (bt)
+A na-eji fatịlaịza eme ka ihe too nke ọma,Fertilizer helps crops grow well (bt)
+Anyi ga-akọ ugbo n'afọ a,We will farm this year (bt)
+Ubi ahụ buru ibu,The farm is large (bt)
+A kụrụ osikapa n'ubi,Rice was planted on the farm (bt)
+A ga-akpọkọta ihe ubi n'izu ọzọ,The harvest will be gathered next week (bt)
+Onye ugbo nwere ọtụtụ ihe ubi,The farmer has many crops (bt)
+Ọrụ Ugbo,Farming (bt)
+Onye Ugbo,Farmer (bt)
+Ubi,Farm (bt)
+Ala,Land (bt)
+Ịkụ Ihe,Planting (bt)
+Owuwe Ihe,Uharvest (bt)
+Fatịlaịza,Fertilizer (bt)
+Mmiri,Irrigation Water (bt)
+Ngwaọrụ Ugbo,Farm Tools (bt)
+Traktọ,Tractor (bt)
+Mkpụrụ Osisi,Seed (bt)
+Nri Osisi,Plant Nutrients (bt)
+Mmepe Ugbo,Agricultural Development (bt)
+Ọrụ Ubi,Cultivation (bt)
+Nlekọta Osisi,Crop Management (bt)
+Ahịhịa,Weed (bt)
+Ịkpụ Ahịhịa,Weeding (bt)
+Ọrụ Ugbo Ọgbara Ọhụrụ,Modern Farming (bt)
+Ngwaọrụ Ịkụ Ihe,Planting Equipment (bt)
+Nsonaazụ Ugbo,Farm Yield (bt)
+Ọrụ ugbo,Farming (bt)
+Ugbo,Farm (bt)
+Onye ugbo,Farmer (bt)
+Ọka,Maize (bt)
+Ji,Yam (bt)
+Akpụ,Cassava (bt)
+Osikapa,Rice (bt)
+Akwukwo nri,Vegetable (bt)
+Mkpụrụ osisi,Fruit (bt)
+Anyi na-azụ ewu,We rear goats (bt)
+Anyi nwere ọtụtụ ọkụkọ,We have many chickens (bt)
+Ehi ahụ dị ike,The cow is healthy (bt)
+A na-enye anụmanụ nri kwa ụbọchị,Animals are fed daily (bt)
+Ọkụkọ ahụ tinyere akwa,The chicken laid eggs (bt)
+Anyi na-elekọta anụmanụ nke ọma,We take good care of animals (bt)
+Nri anụmanụ dị mkpa,Animal feed is important (bt)
+Anyi rere ụfọdụ ewu,We sold some goats (bt)
+Ehi ahụ mụrụ nwa,The cow gave birth (bt)
+Ugbo anụmanụ bara uru,Livestock farming is profitable (bt)
+Anyị na-eme emume ọdịnala.,We are celebrating a cultural festival. (bt)
+Ndị mmadụ yi akwa ọdịnala.,People wore traditional clothes. (bt)
+A kụrụ egwu ọdịnala.,Traditional music was played. (bt)
+Ha gbara egwú.,They danced. (bt)
+Omenala anyị bara uru.,Our culture is valuable. (bt)
+A na-asụ Igbo n'ebe a.,Igbo is spoken here. (bt)
+Ha gara ahịa ọdịnala.,They visited the traditional market. (bt)
+Nna ochie kwuru akụkọ.,The elder told a story. (bt)
+Ụmụaka mụtara ilu Igbo.,The children learned Igbo proverbs. (bt)
+Emume ahụ jupụtara n'ọṅụ.,The festival was full of joy. (bt)
+Amamihe Arụrụ arụ,Artificial Intelligence (bt)
+Mmụta Igwe,Machine Learning (bt)
+Mmụta Miri Emi,Deep Learning (bt)
+Netwọkụ Akwara,Neural Network (bt)
+Data,Data (bt)
+Nhazi Data,Data Processing (bt)
+Nchịkọta Data,Data Collection (bt)
+Ọmụmatụ,Algorithm (bt)
+Ọzụzụ Model,Model Training (bt)
+Nnwale Model,Model Evaluation (bt)
+Ihe Nlereanya,Model (bt)
+Nkọwa,Prediction (bt)
+Ntinye,Input (bt)
+Nsonaazụ,Output (bt)
+Akara,Token (bt)
+Nkewa Okwu,Tokenization (bt)
+Asụsụ,Language (bt)
+Ntụgharị Asụsụ,Translation (bt)
+Nchekwa Data,Dataset (bt)
+Mkpado Data,Data Labeling (bt)
+Nchekwa Model,Model Saving (bt)
+Mmegharị Model,Model Loading (bt)
+Ọmụmụ,Learning (bt)
+Nkuzi,Training (bt)
+Nnyocha,Evaluation (bt)
+Mgbakọ,Computation (bt)
+Ọmụmụ Akpaaka,Automatic Learning (bt)
+Nkwado Data,Data Augmentation (bt)
+Nlele,Validation (bt)
+Nnwale,Testing (bt)
+Ọnụego Mụta,Learning Rate (bt)
+Ọnụọgụ Batch,Batch Size (bt)
+Epoch,Epoch (bt)
+Ọnụahịa Loss,Loss Function (bt)
+Optimizer,Optimizer (bt)
+Transformer,Transformer (bt)
+Self Attention,Self Attention (bt)
+Encoder,Encoder (bt)
+Decoder,Decoder (bt)
+Embedding,Embedding (bt)
+Vocabulary,Nkọwa Okwu (bt)
+Corpus,Nchịkọta Okwu (bt)
+Sentence,Ahịrịokwu (bt)
+Word,Okwu (bt)
+Character,Mkpụrụedemede (bt)
+Translation Model,Nlereanya Ntụgharị Asụsụ (bt)
+Sequence,Nsochi (bt)
+Vector,Vector (bt)
+Dimension,Dimension (bt)
+Attention,Nlebara Anya (bt)
+Context,Nkowa (bt)
+Hidden Layer,Oyi Akụkụ (bt)
+Feature,Njirimara (bt)
+Classification,Nkewa (bt)
+Generation,Mepụta (bt)
+Inference,Nkọwa Model (bt)
+Backpropagation,Mgbasa Azụ (bt)
+Gradient,Nkewa Gradient (bt)
+Optimization,Nkwalite (bt)
+Parameter,Parameter (bt)
+Hyperparameter,Hyperparameter (bt)
+Vocabulary Size,Nha Vocabulary (bt)
+Language Pair,Njikọta Asụsụ (bt)
+Source Language,Asụsụ Isi (bt)
+Target Language,Asụsụ Ebumnuche (bt)
+Preprocessing,Nhazi Mbụ (bt)
+Normalization,Nhazi Nkịtị (bt)
+Cleaning,Nhicha (bt)
+Sentence Pair,Di Ahịrịokwu (bt)
+Parallel Corpus,Parallel Corpus (bt)
+Monolingual Corpus,Monolingual Corpus (bt)
+Iterative Training,Ọzụzụ Ugboro Ugboro (bt)
+Checkpoint,Ebe Nchekwa (bt)
+GPU,GPU (bt)
+CPU,CPU (bt)
+Memory,Nchekwa (bt)
+Accuracy,Izi Ezi (bt)
+BLEU Score,BLEU Score (bt)
+Evaluation Metric,Ntụle (bt)
+Prediction Output,Nsonaazụ Amụma (bt)
+Text Generation,Mepụta Okwu (bt)
+Natural Language Processing,Nhazi Asụsụ Nkịtị (bt)
+Sequence Model,Sequence Model (bt)
+Context Vector,Context Vector (bt)
+Token ID,Token ID (bt)
+Vocabulary Mapping,Mapping Vocabulary (bt)
+Embedding Layer,Embedding Layer (bt)
+Decoder Output,Nsonaazụ Decoder (bt)
+Encoder State,Ọnọdụ Encoder (bt)
+Fine Tuning,Nkwalite Model (bt)
+Transfer Learning,Transfer Learning (bt)
+Translation Quality,Ogo Ntụgharị Asụsụ (bt)
+Language Model,Language Model (bt)
+Corpus Statistics,Corpus Statistics (bt)
+Neural Translation,Ntụgharị Neural (bt)
+Artificial Intelligence System,Sistemụ AI (bt)
+Nwa akwụkwọ nọ n'ụlọ akwụkwọ.,The student is in school. (bt)
+Onye nkụzi na-akụzi mgbakọ.,The teacher is teaching mathematics. (bt)
+Ha na-agụ akwụkwọ n'ọbá akwụkwọ.,They are reading books in the library. (bt)
+Akwụkwọ a dị ọhụrụ.,This book is new. (bt)
+Ụmụ akwụkwọ na-ede ule.,Students are writing an examination. (bt)
+Onye isi ụlọ akwụkwọ bịara.,The principal arrived. (bt)
+Anyị mụtara sayensị taa.,We learned science today. (bt)
+Klas ahụ dị jụụ.,The classroom is quiet. (bt)
+Nwaanyị ahụ gụrụ akụkọ.,The girl read a story. (bt)
+Ha gara ụlọ nyocha.,They went to the laboratory. (bt)
+Onye nkụzi jụrụ ajụjụ.,The teacher asked a question. (bt)
+Ụmụaka na-amụta Bekee.,Children are learning English. (bt)
+Ana m ede ihe n'akwụkwọ m.,I am writing in my notebook. (bt)
+Ha nụrụ ihe onye nkụzi kwuru.,They heard what the teacher said. (bt)
+Ọ gụsịrị akwụkwọ nke ọma.,He graduated successfully. (bt)
+Anyị gara ọmụmụ ihe.,We attended a lesson. (bt)
+Nwa akwụkwọ ahụ meriri asọmpi.,The student won the competition. (bt)
+Ha mụtara akụkọ ihe mere eme.,They studied history. (bt)
+Akwụkwọ ndị a bara uru.,These books are useful. (bt)
+Ụlọ akwụkwọ meghere n'ụtụtụ.,The school opened in the morning. (bt)
+Aga m ede ule echi,I will write an examination tomorrow (bt)
+Nsonaazu ule aputala,The examination result has been released (bt)
+Anom na akwadebe maka ule,I am preparing for an examination (bt)
+Ule a siri ike,This examination is difficult (bt)
+Aga m agu akwukwo abalị a,I will study tonight (bt)
+Anyi nwere ule mgbako taa,We had a mathematics examination today (bt)
+Enwetaram akara oma,I obtained a good score (bt)
+Akara m ka mma ugbu a,My grades are better now (bt)
+Anyi natara nsonaazu anyi,We received our results (bt)
+Aga m eme nke oma n'ule,I will perform well in the examination (bt)
+Onye nkuzi nyochara akwukwo ule anyi,The teacher marked our examination scripts (bt)
+Anyi mechara ule anyi,We completed our examination (bt)
+Aga m ede ule ikpeazu,I will write the final examination (bt)
+Ule semester ga amalite n'izu na-abia,Semester examinations will begin next week (bt)
+Akwukwo ule di njikere,The examination papers are ready (bt)
+Aga m akwadebe nke oma maka ule,I will prepare properly for the examination (bt)
+Anyi malitere ule n'oge,We started the examination on time (bt)
+Onye nlekota ule nyochara akwukwo anyi,The invigilator checked our papers (bt)
+Nwa akwukwo ahu gafere ule,The student passed the examination (bt)
+O dara ule ahu,He failed the examination (bt)
+Akara m di elu,My score is high (bt)
+Akara m di ala,My score is low (bt)
+Ajụjụ nile sitere n'akwukwo,All questions came from the textbook (bt)
+Anyi nwetara nsonaazu n'izu a,We received results this week (bt)
+Nkwadebe na-eweta ezigbo nsonaazu,Preparation leads to good results (bt)
+Nnwale,Examination (bt)
+Nnyocha,Test (bt)
+Ajụjụ,Question (bt)
+Azịza,Answer (bt)
+Mpempe Ajụjụ,Question Paper (bt)
+Nsonaazụ,Result (bt)
+Akara,Score (bt)
+Pasent,Percentage (bt)
+Nnyocha N'etiti Semester,Mid Semester Test (bt)
+Nnwale Ikpeazụ,Final Examination (bt)
+Nnyocha Ọnụ,Oral Test (bt)
+Nnyocha Ederede,Written Test (bt)
+Nlekọta Nnwale,Examination Supervision (bt)
+Onye Nlekọta Nnwale,Invigilator (bt)
+Ndebanye Nnwale,Examination Registration (bt)
+Ụbọchị Nnwale,Examination Date (bt)
+Ụlọ Nnwale,Examination Hall (bt)
+Mmejọ Nnwale,Examination Malpractice (bt)
+Nsonaazụ Ọma,Good Result (bt)
+Nsonaazụ Ọjọọ,Poor Result (bt)
+Ịga Nke Ọma,Pass (bt)
+Ịda Nnwale,Fail (bt)
+Ntụle Akara,Grading (bt)
+A+,A Plus (bt)
+B+,B Plus (bt)
+C,Credit (bt)
+D,Pass Grade (bt)
+F,Fail Grade (bt)
+Nyocha Nsonaazụ,Result Analysis (bt)
+Asambodo Nsonaazụ,Statement of Result (bt)
+Anom na klas online,I am attending an online class (bt)
+Ebudaram ihe omumu ahu,I downloaded the course material (bt)
+Aga m elele vidio nkuzi,I will watch the lecture video (bt)
+Anyi jiri Zoom mee klas,We used Zoom for the class (bt)
+Onye nkuzi zipuru ihe omumu,The teacher sent the learning material (bt)
+Aga m ebugo assignment m,I will upload my assignment (bt)
+Anyi nwere ule online,We have an online test (bt)
+M natara ozi email sitere n'aka onye nkuzi,I received an email from the lecturer (bt)
+Ikpo okwu mmuta a bara uru,This learning platform is useful (bt)
+Anyi sonyeere webinar taa,We attended a webinar today (bt)
+Aga m abanye na portal ulo akwukwo,I will log into the school portal (bt)
+Aga m ebudata akwukwo dijital,I will download the digital textbook (bt)
+Enwere nsogbu internet,There is an internet problem (bt)
+Anyi kparita uka na forum mmuta,We discussed in the learning forum (bt)
+Nkuzi a di na sistemu online,This lesson is available online (bt)
+Anyi jiri Google Classroom muta ihe,We used Google Classroom to learn (bt)
+Nkuzi a di na portal,This lesson is on the portal (bt)
+Aga m ebudata akwukwo PDF,I will download the PDF document (bt)
+Vidiyo a bara uru nke ukwuu,This video is very useful (bt)
+Anyi jiri email nata ozi,We received information through email (bt)
+Onye nkuzi bulitere ihe omumu,The instructor uploaded learning materials (bt)
+Anyi gara webinar taa,We attended a webinar today (bt)
+Aga m lelee vidiyo ahu ozo,I will watch the video again (bt)
+Anyi mere quiz online,We completed an online quiz (bt)
+Portal ulo akwukwo na aru oru nke oma,The school portal is functioning properly (bt)
+Mmụta N'Ịntanet,Online Learning (bt)
+Nkuzi N'Ịntanet,Online Teaching (bt)
+Ụlọ Akwụkwọ Dijitalụ,Digital Classroom (bt)
+Nkuzi N'ebe Dị Iche,Ict Based Learning (bt)
+Mmụta Site Na Ekwentị,Mobile Learning (bt)
+Mmụta Site Na Kọmputa,Computer Based Learning (bt)
+Nyocha N'Ịntanet,Online Assessment (bt)
+Nnwale N'Ịntanet,Online Examination (bt)
+Ọbá Akwụkwọ Dijitalụ,Digital Library (bt)
+Ndekọ Mmụta,Learning Record (bt)
+Ọmụmụ N'onwe Onye,Self Learning (bt)
+Nkuzi Vidiyo,Video Lecture (bt)
+Nkuzi Ọnụ,Audio Lecture (bt)
+Nkuzi Dị Ndụ,Live Class (bt)
+Nnyefe Ihe Omụmụ,Course Delivery (bt)
+Nlekọta Mmụta,Learning Management (bt)
+Ndebanye Akwụkwọ,Course Registration (bt)
+Ihe Omụmụ,Course Material (bt)
+Nkwukọrịta Nkuzi,Educational Communication (bt)
+Ntụle Mmụta,Learning Evaluation (bt)
+Aga m arụ ọrụ m n'afọ ikpeazụ,I will work on my final year project (bt)
+Isiokwu oru ngo m bu ntụgharị asụsụ igwe,My project topic is machine translation (bt)
+Anyi na-eji ọgụgụ isi arụ ọrụ ntụgharị asụsụ,We use artificial intelligence for translation (bt)
+Asụsụ Igbo bụ asụsụ nwere obere data,Igbo is a low-resource language (bt)
+Nchọpụta a na-elekwasị anya na asụsụ Igbo,This research focuses on the Igbo language (bt)
+Anyi na-ewu usoro ntụgharị asụsụ,We are building a translation system (bt)
+Usoro a na-eji neural network,This system uses a neural network (bt)
+Anyi na-anakọta data maka nyocha,We are collecting data for research (bt)
+Data dị mkpa maka ịzụlite model,Data is important for training a model (bt)
+Anyi chọrọ ezigbo dataset,We need a quality dataset (bt)
+A na-eji dataset a zụọ model,This dataset is used to train a model (bt)
+Anyi ga-enyocha arụmọrụ model,We will evaluate the model performance (bt)
+BLEU score na-atụ ogo ntụgharị asụsụ,BLEU score measures translation quality (bt)
+Anyi jiri BLEU score nyochaa model,We used BLEU score to evaluate the model (bt)
+Nsonaazụ gosiri mmezi dị ukwuu,The results showed significant improvement (bt)
+Iterative back translation na-enyere aka imezi model,Iterative back translation helps improve the model (bt)
+Anyi mepụtara data synthetic,We generated synthetic data (bt)
+Data synthetic na-eme ka dataset buru ibu,Synthetic data increases dataset size (bt)
+Anyi jikọtara data ọhụrụ na data mbụ,We combined new data with the original data (bt)
+Model ọhụrụ karịrị nke mbụ arụmọrụ,The new model outperformed the previous one (bt)
+Natural Language Processing bụ akụkụ AI,Natural Language Processing is a branch of AI (bt)
+Anyi na-amụ NLP n'ime oru ngo a,We study NLP in this project (bt)
+Neural Machine Translation na-eji deep learning,Neural Machine Translation uses deep learning (bt)
+Model ahụ mụtara site na ọtụtụ atụ,The model learned from many examples (bt)
+Anyi haziri dataset tupu ọzụzụ,We cleaned the dataset before training (bt)
+A wepụrụ data ugboro ugboro,Duplicate data was removed (bt)
+Anyi kewara dataset n'ime train na test,We split the dataset into train and test sets (bt)
+Data validation nyere aka nyochaa model,Validation data helped evaluate the model (bt)
+Anyi jiri GPU mee ọzụzụ model,We used a GPU to train the model (bt)
+Ọzụzụ model were ọtụtụ awa,Model training took several hours (bt)
+Anyi chekwara model ikpeazụ,We saved the final model (bt)
+Model ahụ nwere ike ịtụgharị Igbo gaa Bekee,The model can translate Igbo to English (bt)
+Model ahụ nwekwara ike ịtụgharị Bekee gaa Igbo,The model can also translate English to Igbo (bt)
+Anyi nyochara njehie ntụgharị asụsụ,We analyzed translation errors (bt)
+Nsonaazụ ikpeazụ dị mma,The final results are good (bt)
+Anyi ga-emezi model n'ọdịnihu,We will improve the model in the future (bt)
+Nchọpụta a bara uru nye mmepe asụsụ Igbo,This research is useful for Igbo language development (bt)
+Teknụzụ asụsụ na-eto ngwa ngwa,Language technology is growing rapidly (bt)
+Asụsụ mpaghara kwesịrị inweta nkwado teknụzụ,Local languages deserve technological support (bt)
+Nchọpụta a na-enyere nchekwa asụsụ aka,This research supports language preservation (bt)
+Orụ Ngo Afọ Ikpeazụ,Final Year Project (bt)
+Nnyocha,Research (bt)
+Akwụkwọ Nnyocha,Research Paper (bt)
+Nkọwa Nsogbu,Problem Statement (bt)
+Ebumnuche Nnyocha,Research Objective (bt)
+Ajụjụ Nnyocha,Research Question (bt)
+Usoro Nnyocha,Research Methodology (bt)
+Nyocha Akwụkwọ,Literature Review (bt)
+Nyocha Data,Data Analysis (bt)
+Mmepe Sistem,System Development (bt)
+Nnwale Sistem,System Testing (bt)
+Nsonaazụ,Results (bt)
+Mkparịta Ụka,Discussion (bt)
+Mmechi,Conclusion (bt)
+Aro,Recommendation (bt)
+Nchịkọta Orụ,Project Summary (bt)
+Onye Nlekọta,Supervisor (bt)
+Onye Nnyocha,Researcher (bt)
+Nchekwa Data,Data Storage (bt)
+Ntụgharị Asụsụ Igbo Bekee,Igbo English Translation (bt)
+Self Attention Mechanism,Self Attention Mechanism (bt)
+Dataset,Dataset (bt)
+Corpus,Corpus (bt)
+Machine Translation,Ntụgharị Asụsụ Akpaaka (bt)
+Artificial Intelligence,Amamihe Arụrụ Arụ (bt)
+NLP na-enyere kọmputa ịghọta asụsụ,NLP helps computers understand language (bt)
+Asụsụ mmadụ siri ike nghọta,Human language is difficult to understand (bt)
+NLP bụ akụkụ AI,NLP is a branch of AI (bt)
+Anyi na-arụ ọrụ na asụsụ Igbo,We are working with the Igbo language (bt)
+A na-eji tokenizer kewaa ederede,A tokenizer splits text into tokens (bt)
+Anyi na-ewepụ mkpụrụokwu na-adịghị mkpa,We remove unnecessary words (bt)
+Dataset anyị nwere ederede Igbo na Bekee,Our dataset contains Igbo and English text (bt)
+NLP na-akwado ntụgharị asụsụ,NLP supports language translation (bt)
+Anyi na-amụ semantics na syntax,We study semantics and syntax (bt)
+A ga-enyocha ogo ntụgharị asụsụ,Translation quality will be evaluated (bt)
+Nhazi Asụsụ Nkịtị,Natural Language Processing (bt)
+Ntụgharị Asụsụ,Machine Translation (bt)
+Nhazi Okwu,Text Processing (bt)
+Mgbakọ Okwu,Word Count (bt)
+Nchịkọta Okwu,Corpus (bt)
+Nyocha Mmetụta,Sentiment Analysis (bt)
+Nkọwapụta Okwu,Text Classification (bt)
+Ịmata Aha,Named Entity Recognition (bt)
+Nchọpụta Asụsụ,Language Detection (bt)
+Nkewa Ahịrịokwu,Sentence Segmentation (bt)
+Nchịkọta Okwu Mgbọrọgwụ,Stemming (bt)
+Nhazi Lemma,Lemmatization (bt)
+Ntụgharị Okwu,Word Embedding (bt)
+Nchekwa Okwu,Vocabulary (bt)
+Nyocha Ahịrịokwu,Sentence Analysis (bt)
+Nyocha Okwu,Word Analysis (bt)
+Nnyocha Nkọwa,Semantic Analysis (bt)
+Nnyocha Grama,Syntactic Analysis (bt)
+Nghọta Asụsụ,Language Understanding (bt)
+Ọgbọ Okwu,Text Generation (bt)
+Mepụta Ahịrịokwu,Sentence Generation (bt)
+Nyocha Mkparịta Ụka,Dialogue Analysis (bt)
+Chatbot,Chatbot (bt)
+Ajụjụ na Azịza,Question Answering (bt)
+Nchịkọta Akụkọ,Text Summarization (bt)
+Ntụgharị Okwu N'otu Asụsụ,Paraphrasing (bt)
+Nyocha Mkpụrụedemede,Character Analysis (bt)
+Nchọpụta Njehie,Error Detection (bt)
+Mmezi Njehie,Error Correction (bt)
+Nkọwa Okwu,Word Meaning (bt)
+Njikọ Okwu,Word Association (bt)
+Nnyocha Mkpọpụta,Speech Analysis (bt)
+Nchọpụta Isiokwu,Topic Detection (bt)
+Nchọpụta Isi Akụkọ,Topic Modeling (bt)
+Anom na klaasi otu,I am in primary one (bt)
+Anom na klaasi abuo,I am in primary two (bt)
+Anom na klaasi ato,I am in primary three (bt)
+Anom na klaasi ano,I am in primary four (bt)
+Anom na klaasi ise,I am in primary five (bt)
+Anom na klaasi isii,I am in primary six (bt)
+Onye nkuzi anyi mara ezigbo ihe,Our teacher is knowledgeable (bt)
+Anyi gara ulo akwukwo taa,We went to school today (bt)
+Anyi guru sayensi taa,We studied science today (bt)
+Anyi guru mgbako taa,We studied mathematics today (bt)
+Ụlọ Akwụkwọ Praịmarị,Primary School (bt)
+Nwa Akwụkwọ,Pupil (bt)
+Onye Nkụzi,Teacher (bt)
+Klas,Class (bt)
+Ihe Omụmụ,Lesson (bt)
+Akwụkwọ,Book (bt)
+Pensụl,Pencil (bt)
+Pensụl Mkpisi,Eraser (bt)
+Tebụl,Table (bt)
+Oche,Chair (bt)
+Bọdụ,Board (bt)
+Ọgụgụ,Reading (bt)
+Ide Ihe,Writing (bt)
+Mgbakọ,Mathematics (bt)
+Sayensị,Science (bt)
+Bekee,English Language (bt)
+Igbo,Igbo Language (bt)
+Akụkọ Ihe Mere Eme,History (bt)
+Egwuregwu,Sports (bt)
+Ọmụmụ Ihe,Learning (bt)
+Nkuzi,Teaching (bt)
+Ụbọchị Akwụkwọ,School Day (bt)
+Ezumike,Break Time (bt)
+Ọrụ Ụlọ,Homework (bt)
+Ndị Mụrụ Ụmụakwụkwọ,Parents (bt)
+Nlekọta Nwa,Child Care (bt)
+Akwụkwọ Ndebanye,Attendance Register (bt)
+Ụlọ Klas,Classroom (bt)
+Aga m ede WAEC,I will write WAEC (bt)
+Aga m ede NECO,I will write NECO (bt)
+Aga m ede JAMB,I will write JAMB (bt)
+Biology bu isiokwu m kacha amasiri,Biology is my favourite subject (bt)
+Kemistri siri ike,Chemistry is difficult (bt)
+Physics na-ato m uto,Physics interests me (bt)
+Anyi nwere practical taa,We have practical today (bt)
+Onye nkuzi sayensi abiara taa,The science teacher came today (bt)
+Akwukwo m di n'akwukwo nchekwa m,My notebook is in my school bag (bt)
+Anyi na akwadebe maka ule,We are preparing for examinations (bt)
+Ụlọ Akwụkwọ Sekọndrị,Secondary School (bt)
+Nwa Akwụkwọ,Student (bt)
+Isi Nkụzi,Principal (bt)
+Vice Principal,Vice Principal (bt)
+Nkuzi,Lesson (bt)
+Fiziks,Physics (bt)
+Kemistri,Chemistry (bt)
+Bayoloji,Biology (bt)
+Gọọmenti,Government (bt)
+Nchịkọta Ahịa,Economics (bt)
+Akaụntụ,Accounting (bt)
+Geography,Geography (bt)
+WAEC,WAEC (bt)
+NECO,NECO (bt)
+JAMB,JAMB (bt)
+Ụlọ Nkuzi,Classroom (bt)
+Ọbá Akwụkwọ,Library (bt)
+Laboratorị,Laboratory (bt)
+Ọrụ Ụlọ,Assignment (bt)
+Asambodo,Certificate (bt)
+Ngụsị Akwụkwọ,Graduation (bt)
+Mmepe Nwa,Student Development (bt)
+Nduzi,Guidance (bt)
+Ntụgharị asụsụ dị ezigbo mkpa,Translation is very important (bt)
+Anyi na-ewu translator ọhụrụ,We are building a new translator (bt)
+A ga-atụgharị ahịrịokwu a,This sentence will be translated (bt)
+Asụsụ Igbo chọrọ nkwado teknụzụ,The Igbo language needs technological support (bt)
+Model ahụ nwere ike ịtụgharị ederede,The model can translate text (bt)
+Anyi na-atụgharị Bekee gaa Igbo,We translate English into Igbo (bt)
+Anyi na-atụgharị Igbo gaa Bekee,We translate Igbo into English (bt)
+Ogo ntụgharị asụsụ dị mkpa,Translation quality is important (bt)
+A na-eji BLEU score tụọ ogo ntụgharị,A BLEU score measures translation quality (bt)
+Ntụgharị a ziri ezi,This translation is accurate (bt)
+igbo,english (bt)
+Ndewo,Hello (bt)
+Kedu ka ị mere?,How are you? (bt)
+Ụtụtụ ọma,Good morning (bt)
+Ehihie ọma,Good afternoon (bt)
+Mgbede ọma,Good evening (bt)
+Ka ọ dị,Welcome (bt)
+Daalụ,Thank you (bt)
+Biko,Please (bt)
+Ndo,Sorry (bt)
+Ka ọ dị mma?,Is it okay? (bt)
+Aha m bụ John,My name is John (bt)
+Kedu aha gị?,What is your name? (bt)
+Ebee ka ị si?,Where are you from? (bt)
+Anọ m n'ụlọ akwụkwọ,I am in school (bt)
+Achọrọ m ịmụ,I want to learn (bt)
+Ọ bụ eziokwu,It is true (bt)
+Ọ bụghị eziokwu,It is not true (bt)
+Anọ m ebe a,I am here (bt)
+Bịa ebe a,Come here (bt)
+Gaa ụlọ,Go home (bt)
+Abum nwa akwukwo mahadum,I am a university student (bt)
+Enwerem lecture n'ututu,I have a lecture this morning (bt)
+Enwerem seminar echi,I have a seminar tomorrow (bt)
+Anyi gara laboratory taa,We went to the laboratory today (bt)
+Anyi nyefere assignment anyi,We submitted our assignment (bt)
+Aga m echebe project m,I will defend my project (bt)
+Prọfesọ anyi nyere anyi oru,Our professor gave us an assignment (bt)
+Anyi na-eme nyocha,We are conducting research (bt)
+Anyi nwere workshop n'izu a,We have a workshop this week (bt)
+Aga m agụ maka ule semester,I will study for the semester examination (bt)
+Anyi nwere tutorial taa,We have a tutorial today (bt)
+Aga m aga lecture hall,I will go to the lecture hall (bt)
+Nwa akwukwo nile no na lecture,All students are in the lecture (bt)
+Onye nkuzi juru anyi ajuju,The lecturer asked us questions (bt)
+Anyi zara ajuju nile,We answered all the questions (bt)
+Aga m ede report,I will write a report (bt)
+Anyi nyefere report anyi,We submitted our report (bt)
+Aga m eme presentation,I will make a presentation (bt)
+Anyi gosiputara nchoputa anyi,We presented our findings (bt)
+Prọfesọ toro oru anyi,The professor praised our work (bt)
+Anyi nwere practical laboratory,We have a laboratory practical (bt)
+Nchoputa a metutara mmuta,This research concerns education (bt)
+Anyi gara ogbako omumu,We attended an academic conference (bt)
+Aga m ebipụta nchoputa m,I will publish my research (bt)
+Anyi jiri SPSS nyochaa data,We used SPSS to analyze data (bt)
+Anyi jiri Excel hazie data,We used Excel to organize data (bt)
+Onye ndu anyi nyochara chapter mbu,Our supervisor reviewed chapter one (bt)
+Aga m ede chapter ise,I will write chapter five (bt)
+Anyi chotara ihe di mkpa,We discovered important findings (bt)
+Nchoputa anyi gosiri ezigbo nsonaazu,Our research produced good results (bt)
+Mahadum,University (bt)
+Nwa Akwụkwọ Mahadum,University Student (bt)
+Onye Nkụzi,Lecturer (bt)
+Prọfesọ,Professor (bt)
+Ngalaba,Department (bt)
+Fakọlti,Faculty (bt)
+Dean,Dean (bt)
+Vice Chancellor,Vice Chancellor (bt)
+Registrar,Registrar (bt)
+Bursar,Bursar (bt)
+Ọmụmụ Nna Ukwu,Undergraduate Study (bt)
+Ọmụmụ Nna Ochie,Postgraduate Study (bt)
+Nna Ukwu Mbụ,First Degree (bt)
+Masta,Masters Degree (bt)
+Doktọret,Doctorate Degree (bt)
+Ndebanye Akwụkwọ,Registration (bt)
+Ụgwọ Akwụkwọ,School Fees (bt)
+Transcript,Transcript (bt)
+Semester,Semester (bt)
+Afọ Akwụkwọ,Academic Session (bt)
+Nkuzi,Lecture (bt)
+Ụlọ Nkuzi,Lecture Hall (bt)
+Ndị Nkuzi,Academic Staff (bt)
+Ndị Ọrụ,Non Academic Staff (bt)
+Nchịkọta GPA,GPA Calculation (bt)
+Nchekwa Nsonaazụ,Result Management (bt)
+Akwụkwọ Ngụsị Akwụkwọ,Certificate (bt)
+Aha m bụ Chinedu,My name is Chinedu (bt)
+Abụ m onye Enugu,I am from Enugu (bt)
+Kedu ebe ị na-aga?,Where are you going? (bt)
+Ana m aga ahịa,I am going to the market (bt)
+Ị riela nri?,Have you eaten? (bt)
+Ee eriela m,Yes I have eaten (bt)
+Mba eribeghị m,No I have not eaten (bt)
+Kedu ihe ị chọrọ?,What do you want? (bt)
+Achọrọ m mmiri,I want water (bt)
+Achọrọ m nri,I want food (bt)
+Enwere m agụụ,I am hungry (bt)
+Enwere m akpịrị ịkpọ nkụ,I am thirsty (bt)
+Biko nyere m aka,Please help me (bt)
+Enweghị nsogbu,No problem (bt)
+Kedu oge ọ bụ?,What time is it? (bt)
+Ọ bụ elekere atọ,It is three o'clock (bt)
+Anyi ga-ahụ echi,We will meet tomorrow (bt)
+Ka ọ dị ugbu a?,How is everything now? (bt)
+Ezinụlọ,Family (bt)
+Nna,Father (bt)
+Nne,Mother (bt)
+Nwa,Child (bt)
+Nwanne nwoke,Brother (bt)
+Nwanne nwanyị,Sister (bt)
+Nna nna,Grandfather (bt)
+Nne nne,Grandmother (bt)
+Di,Husband (bt)
+Nwunye,Wife (bt)
+Nwa nwoke,Son (bt)
+Nwa nwanyị,Daughter (bt)
+Nwanne,Relative (bt)
+Ezigbo enyi,Close friend (bt)
+Nwa nwanne,Nephew (bt)
+Nwa nwanne nwanyị,Niece (bt)
+Ezinụlọ m,My family (bt)
+A hụrụ m ezinụlọ m n'anya,I love my family (bt)
+Anyi bụ ezinụlọ ọma,We are a good family (bt)
+Nna m nọ n'ụlọ,My father is at home (bt)
+Ka chi fo,Good night (bt)
+Kedu?,How are you? (bt)
+Adị m mma,I am fine (bt)
+Nnọọ,Welcome (bt)
+Ka ọ dị?,How is it? (bt)
+Ọ dị mma,It is fine (bt)
+Ka emesia,See you later (bt)
+Nọrọ nke ọma,Stay well (bt)
+Jisie ike,Take care (bt)
+Ka ọ dị gị?,How are you doing? (bt)
+Ekele m gị,I greet you (bt)
+Daalụ nke ukwuu,Thank you very much (bt)
+Enwere m obi ụtọ,I am happy (bt)
+Ọ dị m nwute,I am sorry (bt)
+Ụgbọ ala,Car (bt)
+Bọs,Bus (bt)
+Ụgbọ elu,Airplane (bt)
+Ụgbọ mmiri,Boat (bt)
+Okporo ụzọ,Road (bt)
+Onye ọkwọ ụgbọ ala,Driver (bt)
+Tiketi,Ticket (bt)
+Njem,Journey (bt)
+Ụzọ,Route (bt)
+Ebe ụgbọ ala na-akwụsị,Bus Stop (bt)
+Ọdụ ụgbọ elu,Airport (bt)
+Ọdụ ụgbọ mmiri,Seaport (bt)
+Ana m eje ije,I am walking (bt)
+Ana m ewere ụgbọ ala,I am taking a car (bt)
+Njem ahụ dị ogologo,The journey is long (bt)
+Kedu ebe ọdụ ụgbọ ala dị?,Where is the bus stop? (bt)
+Bọs ahụ eruola,The bus has arrived (bt)
+Anyi na-eme njem taa,We are travelling today (bt)
+Ụgbọ ala ahụ mebiri,The car broke down (bt)
+Njem ọma,Safe journey (bt)
+Gọvanọ kwuru okwu taa.,The governor spoke today. (bt)
+A họpụtara onye isi ọhụrụ.,A new leader was elected. (bt)
+Ụlọ omeiwu zukọrọ.,The parliament held a meeting. (bt)
+Iwu ọhụrụ ahụ amalitela.,The new law has taken effect. (bt)
+Ụmụ amaala nwere ikike.,Citizens have rights. (bt)
+A ga-eme ntuli aka echi.,The election will take place tomorrow. (bt)
+Onye isi ala bịara obodo ahụ.,The president visited the town. (bt)
+Minista ahụ nyere akụkọ.,The minister gave a report. (bt)
+A na-anakọta ụtụ isi.,Taxes are collected. (bt)
+A ga-ewu ụzọ ọhụrụ.,A new road will be constructed. (bt)
+Ọfịs ahụ meghere n'ụtụtụ.,The office opened in the morning. (bt)
+A kwadoro mmefu ego.,The budget was approved. (bt)
+A ga-eme nyocha.,An investigation will be conducted. (bt)
+Ha bịanyere aka na nkwekọrịta.,They signed the agreement. (bt)
+Obodo chọrọ mmepe.,The community needs development. (bt)
+Ọrịa,Disease (bt)
+Ịba,Malaria (bt)
+Typhoid,Typhoid Fever (bt)
+Ọrịa Shuga,Diabetes (bt)
+Ọbara Mgbali Elu,Hypertension (bt)
+Ọrịa Obi,Heart Disease (bt)
+Ọrịa Cancer,Cancer (bt)
+Ọrịa Akpịrị,Throat Infection (bt)
+Ọrịa Ntị,Ear Infection (bt)
+Ọrịa Anya,Eye Disease (bt)
+Ọrịa Akpụkpọ Ahụ,Skin Disease (bt)
+COVID-19,COVID-19 (bt)
+Ọrịa Nkụchi Ume,Asthma (bt)
+Ọrịa Ume,Pneumonia (bt)
+Tuberculosis,Tuberculosis (bt)
+Ọrịa Akụrụ,Kidney Disease (bt)
+Ọrịa Imeju,Liver Disease (bt)
+Ọrịa Obi Ọjọọ,Heart Failure (bt)
+Mgbu Isi,Headache (bt)
+Ọkụ Ahụ,Fever (bt)
+Ntụrụndụ Ahụ Ike,Recovery (bt)
+Mgbu Afọ,Stomach Pain (bt)
+Ọgbụgbọ,Vomiting (bt)
+Ọsịsa,Diarrhea (bt)
+Nsogbu Ura,Sleep Disorder (bt)
+Nsogbu Nri,Malnutrition (bt)
+Nsogbu Uche,Mental Illness (bt)
+Ịda Mbà N'obi,Depression (bt)
+Nchekasị,Anxiety (bt)
+Ọrịa Na-efe Efe,Infectious Disease (bt)
+Ọgwụ,Medicine (bt)
+Mkpụrụ Ọgwụ,Tablet (bt)
+Capsule,Capsule (bt)
+Syrup,Syrup (bt)
+Injection,Injection (bt)
+Paracetamol,Paracetamol (bt)
+Ibuprofen,Ibuprofen (bt)
+Antibiotic,Antibiotic (bt)
+Antimalarial,Antimalarial Drug (bt)
+Vitamin,Vitamin (bt)
+Dose,Dosage (bt)
+Prescription,Prescription (bt)
+Onye Na-enye Ọgwụ,Pharmacist (bt)
+Ụlọ Ọgwụ,Pharmacy (bt)
+Mgbochi Ọrịa,Vaccine (bt)
+Immunization,Immunization (bt)
+Ọgwụ Mgbu,Pain Reliever (bt)
+Ọgwụ Nchekwa Ahụ,Supplement (bt)
+Mgbochi Nsị,Antiseptic (bt)
+Bandeeji,Bandage (bt)
+Insulin,Insulin (bt)
+Drip,Intravenous Fluid (bt)
+Sedative,Sedative (bt)
+Anaesthesia,Anaesthesia (bt)
+Nlekọta Ọgwụ,Medication Management (bt)
+Mmeghachi Ọgwụ,Drug Reaction (bt)
+Nchekwa Ọgwụ,Drug Storage (bt)
+Ụbọchị Ngwụcha Ọgwụ,Expiry Date (bt)
+Ọgwụ Akwụkwọ,Prescription Drug (bt)
+Ọgwụ Na-enweghị Prescription,Over-the-Counter Drug (bt)
+Dọkịta,Doctor (bt)
+Nọọsụ,Nurse (bt)
+Ụlọ ọgwụ,Hospital (bt)
+Onye ọrịa,Patient (bt)
+Ahụ ike,Health (bt)
+Ọbara,Blood (bt)
+Nyocha,Examination (bt)
+Ọrịa,Sickness (bt)
+Nlekọta,Care (bt)
+Dọkịta bịara n'ụtụtụ.,The doctor arrived in the morning. (bt)
+Nọọsụ nyere ọgwụ.,The nurse administered medicine. (bt)
+Ahụ adịghị ya mma.,He is not feeling well. (bt)
+Ha gara ụlọ ọgwụ.,They went to the hospital. (bt)
+Nwata ahụ nwere ọkụ.,The child has a fever. (bt)
+A ga-enyocha ọbara gị.,Your blood will be tested. (bt)
+Na-aṅụ mmiri ọtụtụ.,Drink plenty of water. (bt)
+Nri ọma na-eme ka ahụ dị ike.,Good food keeps the body healthy. (bt)
+A ga-eme gị ọgwụgwọ.,You will receive treatment. (bt)
+Onye ọrịa zuru ike.,The patient rested. (bt)
+Ụlọ Ọgwụ,Hospital (bt)
+Onye Ọrịa,Patient (bt)
+Nlekọta Ọrịa,Patient Care (bt)
+Ndebanye Ọrịa,Patient Registration (bt)
+Ụlọ Nlekọta Mberede,Emergency Unit (bt)
+Ọgwụgwọ,Treatment (bt)
+Nnyocha Ahụ Ike,Medical Examination (bt)
+Ịwa Ahụ,Surgery (bt)
+Nlekọta Ahụ Ike,Healthcare (bt)
+Ụlọ Nwata,Children Ward (bt)
+Ụlọ Ndị Inyom,Maternity Ward (bt)
+Nlekọta Ndị Agadi,Elderly Care (bt)
+Nyocha Ọbara,Blood Test (bt)
+Nyocha Mmiri,Urine Test (bt)
+Ụlọ Ọgwụ Obodo,Clinic (bt)
+Ụlọ Ọgwụ Gọọmenti,Government Hospital (bt)
+Nlekọta Mberede,Emergency Care (bt)
+Nnyefe Ọrịa,Patient Referral (bt)
+Ụgbọ Mberede,Ambulance (bt)
+Nlekọta Nwaanyị Dị Ime,Antenatal Care (bt)
+Ịmụ Nwa,Child Delivery (bt)
+Nlekọta Mgbe Amuchara Nwa,Postnatal Care (bt)
+Ọgwụgwụ Ọrịa,Discharge (bt)
+Nlekọta Ahụike Obodo,Community Health (bt)
+Nkwado Ahụike,Health Support (bt)
+Nchekwa Ahụ Ike,Health Protection (bt)
+Ahụ Ike,Health (bt)
+Obi,Heart (bt)
+Ụbụrụ,Brain (bt)
+Akụrụ,Kidney (bt)
+Imeju,Liver (bt)
+Akpa Ume,Lungs (bt)
+Ọkpụkpụ,Bone (bt)
+Akwara,Muscle (bt)
+Anya,Eye (bt)
+Ntị,Ear (bt)
+Imi,Nose (bt)
+Ọnụ,Mouth (bt)
+Ezé,Tooth (bt)
+Akpụkpọ Ahụ,Skin (bt)
+Nyocha,Diagnosis (bt)
+Nnyocha Ahụ Ike,Medical Checkup (bt)
+Nyocha Laboratory,Laboratory Test (bt)
+Nsonaazụ Test,Test Result (bt)
+Mgbali Ọbara,Blood Pressure (bt)
+Ọkwa Shuga,Blood Sugar Level (bt)
+Nchekwa Ahụ Ike,Health Safety (bt)
+Mmetụta Ọgwụ,Side Effect (bt)
+Ahụ́ Ọma,Wellness (bt)
+Mgbochi Ọrịa,Disease Prevention (bt)
+Nlekọta Ahụike Obodo,Community Healthcare (bt)
+Nkwado Ahụ Ike,Health Promotion (bt)
+Kọmputa ahụ na-arụ ọrụ nke ọma,The computer is working properly (bt)
+Anyi dere ngwanrọ ọhụrụ,We developed new software (bt)
+Data ahụ echekwara nke ọma,The data was stored properly (bt)
+Ịntanetị anaghị arụ ọrụ taa,The internet is not working today (bt)
+Anyi jikọtara sava ahụ,We connected the server (bt)
+Cybersecurity,Cybersecurity (bt)
+Nchekwa Data,Data Security (bt)
+Password,Password (bt)
+Authentication,Authentication (bt)
+Encryption,Encryption (bt)
+Firewall,Firewall (bt)
+Virus,Virus (bt)
+Malware,Malware (bt)
+Spyware,Spyware (bt)
+Phishing,Phishing (bt)
+Attack,Attack (bt)
+Threat,Threat (bt)
+Risk,Risk (bt)
+Vulnerability,Vulnerability (bt)
+Hacker,Hacker (bt)
+Ethical Hacker,Ethical Hacker (bt)
+Network Security,Network Security (bt)
+Access Control,Access Control (bt)
+Data Breach,Data Breach (bt)
+Security Policy,Security Policy (bt)
+Backup,Backup (bt)
+Recovery,Recovery (bt)
+Monitoring,Monitoring (bt)
+Audit,Audit (bt)
+VPN,VPN (bt)
+Two Factor Authentication,Two Factor Authentication (bt)
+Digital Certificate,Digital Certificate (bt)
+Security Update,Security Update (bt)
+Cloud Security,Cloud Security (bt)
+Incident Response,Incident Response (bt)
+Database,Database (bt)
+Ahịrị,Row (bt)
+Kọlụm,Column (bt)
+Primary Key,Primary Key (bt)
+Foreign Key,Foreign Key (bt)
+SQL,SQL (bt)
+MySQL,MySQL (bt)
+PostgreSQL,PostgreSQL (bt)
+SQLite,SQLite (bt)
+MongoDB,MongoDB (bt)
+Query,Query (bt)
+Insert,Insert (bt)
+Update,Update (bt)
+Delete,Delete (bt)
+Select,Select (bt)
+Index,Index (bt)
+Restore,Restore (bt)
+Database Server,Database Server (bt)
+Schema,Schema (bt)
+Migration,Migration (bt)
+Record,Record (bt)
+Transaction,Transaction (bt)
+Data Integrity,Data Integrity (bt)
+Normalization,Normalization (bt)
+CSV File,CSV File (bt)
+Storage,Storage (bt)
+Kọmputa,Computer (bt)
+Ngwanrọ,Software (bt)
+Ngwaike,Hardware (bt)
+Ịntanetị,Internet (bt)
+Nchekwa,Storage (bt)
+Sava,Server (bt)
+Netwọk,Network (bt)
+Mmemme,Program (bt)
+Algorithm,Algorithm (bt)
+Mmepe Weebụ,Web Development (bt)
+Weebụsaịtị,Website (bt)
+Peeji Weebụ,Web Page (bt)
+Frontend,Frontend (bt)
+Backend,Backend (bt)
+Server,Server (bt)
+Client,Client (bt)
+HTML,HTML (bt)
+CSS,CSS (bt)
+React,React (bt)
+Vue,Vue (bt)
+Angular,Angular (bt)
+API,API (bt)
+REST API,REST API (bt)
+FastAPI,FastAPI (bt)
+Django,Django (bt)
+Authorization,Authorization (bt)
+Login,Login (bt)
+Signup,Signup (bt)
+Dashboard,Dashboard (bt)
+Deployment,Deployment (bt)
+Hosting,Hosting (bt)
+Domain Name,Domain Name (bt)
+Responsive Design,Responsive Design (bt)
+User Interface,User Interface (bt)
+User Experience,User Experience (bt)
+Navigation,Navigation (bt)
+Web Application,Web Application (bt)
+Software Engineering,Software Engineering (bt)
+System Design,System Design (bt)
+Requirement,Requirement (bt)
+Analysis,Analysis (bt)
+Implementation,Implementation (bt)
+Testing,Testing (bt)
+Maintenance,Maintenance (bt)
+Documentation,Documentation (bt)
+Project,Project (bt)
+Sprint,Sprint (bt)
+Agile,Agile (bt)
+Scrum,Scrum (bt)
+Bug,Bug (bt)
+Feature,Feature (bt)
+Release,Release (bt)
+Repository,Repository (bt)
+GitHub,GitHub (bt)
+GitLab,GitLab (bt)
+Branch,Branch (bt)
+Merge,Merge (bt)
+Pull Request,Pull Request (bt)
+Code Review,Code Review (bt)
+Architecture,Architecture (bt)
+Module,Module (bt)
+Component,Component (bt)
+Workflow,Workflow (bt)
+Lifecycle,Lifecycle (bt)
+Development Team,Development Team (bt)
+Kọmputa ahụ na-arụ ọrụ nke ọma.,The computer is working properly. (bt)
+Ana m eji ekwentị m eme ihe.,I am using my phone. (bt)
+Ịntanetị ahụ dị ngwa.,The internet is fast. (bt)
+Ha wụnyere ngwanrọ ọhụrụ.,They installed new software. (bt)
+Paswọọdụ ahụ dị nchebe.,The password is secure. (bt)
+Sava ahụ kwụsịrị ịrụ ọrụ.,The server stopped working. (bt)
+Ana m ebudata faịlụ ahụ.,I am downloading the file. (bt)
+Ana m ezipu ozi email.,I am sending an email. (bt)
+Ekwentị ọhụrụ ahụ dị mma.,The new phone is good. (bt)
+Ngwa ahụ chọrọ mmelite.,The application needs an update. (bt)
+Ana m eji Wi-Fi.,I am using Wi-Fi. (bt)
+Nchekwa data dị mkpa.,Data security is important. (bt)
+Robot ahụ na-arụ ọrụ ngwa ngwa.,The robot works quickly. (bt)
+Ana m ede koodu ọhụrụ.,I am writing new code. (bt)
+Sistemụ ahụ malitere ọzọ.,The system restarted. (bt)
+Faịlụ ahụ echekwara nke ọma.,The file was saved successfully. (bt)
+Ngwaọrụ ahụ nwere batrị ọhụrụ.,The device has a new battery. (bt)
+Ha jikọtara netwọk ahụ.,They connected the network. (bt)
+Ngwanrọ ahụ dị mfe iji.,The software is easy to use. (bt)
+Ana m echekwa akwụkwọ ahụ n'igwe ojii.,I am saving the document to the cloud. (bt)

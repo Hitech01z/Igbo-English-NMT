@@ -1,0 +1,97 @@
+igbo,english,domain,source
+Amamihe Arụrụ arụ,Artificial Intelligence,education,manual
+Mmụta Igwe,Machine Learning,education,manual
+Mmụta Miri Emi,Deep Learning,education,manual
+Netwọkụ Akwara,Neural Network,education,manual
+Data,Data,education,manual
+Nhazi Data,Data Processing,education,manual
+Nchịkọta Data,Data Collection,education,manual
+Ọmụmatụ,Algorithm,education,manual
+Ọzụzụ Model,Model Training,education,manual
+Nnwale Model,Model Evaluation,education,manual
+Ihe Nlereanya,Model,education,manual
+Nkọwa,Prediction,education,manual
+Ntinye,Input,education,manual
+Nsonaazụ,Output,education,manual
+Akara,Token,education,manual
+Nkewa Okwu,Tokenization,education,manual
+Asụsụ,Language,education,manual
+Ntụgharị Asụsụ,Translation,education,manual
+Nchekwa Data,Dataset,education,manual
+Mkpado Data,Data Labeling,education,manual
+Nchekwa Model,Model Saving,education,manual
+Mmegharị Model,Model Loading,education,manual
+Ọmụmụ,Learning,education,manual
+Nkuzi,Training,education,manual
+Nnyocha,Evaluation,education,manual
+Mgbakọ,Computation,education,manual
+Ọmụmụ Akpaaka,Automatic Learning,education,manual
+Nkwado Data,Data Augmentation,education,manual
+Nlele,Validation,education,manual
+Nnwale,Testing,education,manual
+Ọnụego Mụta,Learning Rate,education,manual
+Ọnụọgụ Batch,Batch Size,education,manual
+Epoch,Epoch,education,manual
+Ọnụahịa Loss,Loss Function,education,manual
+Optimizer,Optimizer,education,manual
+Transformer,Transformer,education,manual
+Self Attention,Self Attention,education,manual
+Encoder,Encoder,education,manual
+Decoder,Decoder,education,manual
+Embedding,Embedding,education,manual
+Vocabulary,Nkọwa Okwu,education,manual
+Corpus,Nchịkọta Okwu,education,manual
+Sentence,Ahịrịokwu,education,manual
+Word,Okwu,education,manual
+Character,Mkpụrụedemede,education,manual
+Translation Model,Nlereanya Ntụgharị Asụsụ,education,manual
+Sequence,Nsochi,education,manual
+Vector,Vector,education,manual
+Dimension,Dimension,education,manual
+Attention,Nlebara Anya,education,manual
+Context,Nkowa,education,manual
+Hidden Layer,Oyi Akụkụ,education,manual
+Feature,Njirimara,education,manual
+Classification,Nkewa,education,manual
+Generation,Mepụta,education,manual
+Inference,Nkọwa Model,education,manual
+Backpropagation,Mgbasa Azụ,education,manual
+Gradient,Nkewa Gradient,education,manual
+Optimization,Nkwalite,education,manual
+Parameter,Parameter,education,manual
+Hyperparameter,Hyperparameter,education,manual
+Vocabulary Size,Nha Vocabulary,education,manual
+Language Pair,Njikọta Asụsụ,education,manual
+Source Language,Asụsụ Isi,education,manual
+Target Language,Asụsụ Ebumnuche,education,manual
+Preprocessing,Nhazi Mbụ,education,manual
+Normalization,Nhazi Nkịtị,education,manual
+Cleaning,Nhicha,education,manual
+Sentence Pair,Di Ahịrịokwu,education,manual
+Parallel Corpus,Parallel Corpus,education,manual
+Monolingual Corpus,Monolingual Corpus,education,manual
+Iterative Training,Ọzụzụ Ugboro Ugboro,education,manual
+Checkpoint,Ebe Nchekwa,education,manual
+GPU,GPU,education,manual
+CPU,CPU,education,manual
+Memory,Nchekwa,education,manual
+Accuracy,Izi Ezi,education,manual
+BLEU Score,BLEU Score,education,manual
+Evaluation Metric,Ntụle,education,manual
+Prediction Output,Nsonaazụ Amụma,education,manual
+Text Generation,Mepụta Okwu,education,manual
+Natural Language Processing,Nhazi Asụsụ Nkịtị,education,manual
+Sequence Model,Sequence Model,education,manual
+Context Vector,Context Vector,education,manual
+Token ID,Token ID,education,manual
+Vocabulary Mapping,Mapping Vocabulary,education,manual
+Embedding Layer,Embedding Layer,education,manual
+Decoder Output,Nsonaazụ Decoder,education,manual
+Encoder State,Ọnọdụ Encoder,education,manual
+Fine Tuning,Nkwalite Model,education,manual
+Transfer Learning,Transfer Learning,education,manual
+Translation Quality,Ogo Ntụgharị Asụsụ,education,manual
+Language Model,Language Model,education,manual
+Corpus Statistics,Corpus Statistics,education,manual
+Neural Translation,Ntụgharị Neural,education,manual
+Artificial Intelligence System,Sistemụ AI,education,manual

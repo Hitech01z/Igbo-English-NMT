@@ -1,0 +1,73 @@
+igbo,english,domain,source
+Aga m arụ ọrụ m n'afọ ikpeazụ,I will work on my final year project,Education,Manual
+Isiokwu oru ngo m bu ntụgharị asụsụ igwe,My project topic is machine translation,Education,Manual
+Anyi na-eji ọgụgụ isi arụ ọrụ ntụgharị asụsụ,We use artificial intelligence for translation,Education,Manual
+Asụsụ Igbo bụ asụsụ nwere obere data,Igbo is a low-resource language,Education,Manual
+Nchọpụta a na-elekwasị anya na asụsụ Igbo,This research focuses on the Igbo language,Education,Manual
+Anyi na-ewu usoro ntụgharị asụsụ,We are building a translation system,Education,Manual
+Usoro a na-eji neural network,This system uses a neural network,Education,Manual
+Anyi na-anakọta data maka nyocha,We are collecting data for research,Education,Manual
+Data dị mkpa maka ịzụlite model,Data is important for training a model,Education,Manual
+Anyi chọrọ ezigbo dataset,We need a quality dataset,Education,Manual
+A na-eji dataset a zụọ model,This dataset is used to train a model,Education,Manual
+Anyi ga-enyocha arụmọrụ model,We will evaluate the model performance,Education,Manual
+BLEU score na-atụ ogo ntụgharị asụsụ,BLEU score measures translation quality,Education,Manual
+Anyi jiri BLEU score nyochaa model,We used BLEU score to evaluate the model,Education,Manual
+Nsonaazụ gosiri mmezi dị ukwuu,The results showed significant improvement,Education,Manual
+Iterative back translation na-enyere aka imezi model,Iterative back translation helps improve the model,Education,Manual
+Anyi mepụtara data synthetic,We generated synthetic data,Education,Manual
+Data synthetic na-eme ka dataset buru ibu,Synthetic data increases dataset size,Education,Manual
+Anyi jikọtara data ọhụrụ na data mbụ,We combined new data with the original data,Education,Manual
+Model ọhụrụ karịrị nke mbụ arụmọrụ,The new model outperformed the previous one,Education,Manual
+
+Natural Language Processing bụ akụkụ AI,Natural Language Processing is a branch of AI,Education,Manual
+Anyi na-amụ NLP n'ime oru ngo a,We study NLP in this project,Education,Manual
+Neural Machine Translation na-eji deep learning,Neural Machine Translation uses deep learning,Education,Manual
+Model ahụ mụtara site na ọtụtụ atụ,The model learned from many examples,Education,Manual
+Anyi haziri dataset tupu ọzụzụ,We cleaned the dataset before training,Education,Manual
+A wepụrụ data ugboro ugboro,Duplicate data was removed,Education,Manual
+Anyi kewara dataset n'ime train na test,We split the dataset into train and test sets,Education,Manual
+Data validation nyere aka nyochaa model,Validation data helped evaluate the model,Education,Manual
+Anyi jiri GPU mee ọzụzụ model,We used a GPU to train the model,Education,Manual
+Ọzụzụ model were ọtụtụ awa,Model training took several hours,Education,Manual
+Anyi chekwara model ikpeazụ,We saved the final model,Education,Manual
+Model ahụ nwere ike ịtụgharị Igbo gaa Bekee,The model can translate Igbo to English,Education,Manual
+Model ahụ nwekwara ike ịtụgharị Bekee gaa Igbo,The model can also translate English to Igbo,Education,Manual
+Anyi nyochara njehie ntụgharị asụsụ,We analyzed translation errors,Education,Manual
+Nsonaazụ ikpeazụ dị mma,The final results are good,Education,Manual
+Anyi ga-emezi model n'ọdịnihu,We will improve the model in the future,Education,Manual
+Nchọpụta a bara uru nye mmepe asụsụ Igbo,This research is useful for Igbo language development,Education,Manual
+Teknụzụ asụsụ na-eto ngwa ngwa,Language technology is growing rapidly,Education,Manual
+Asụsụ mpaghara kwesịrị inweta nkwado teknụzụ,Local languages deserve technological support,Education,Manual
+Nchọpụta a na-enyere nchekwa asụsụ aka,This research supports language preservation,Education,Manual
+
+Orụ Ngo Afọ Ikpeazụ,Final Year Project,education,manual
+Nnyocha,Research,education,manual
+Akwụkwọ Nnyocha,Research Paper,education,manual
+Nkọwa Nsogbu,Problem Statement,education,manual
+Ebumnuche Nnyocha,Research Objective,education,manual
+Ajụjụ Nnyocha,Research Question,education,manual
+Usoro Nnyocha,Research Methodology,education,manual
+Nyocha Akwụkwọ,Literature Review,education,manual
+Nchịkọta Data,Data Collection,education,manual
+Nyocha Data,Data Analysis,education,manual
+Mmepe Sistem,System Development,education,manual
+Nnwale Sistem,System Testing,education,manual
+Nsonaazụ,Results,education,manual
+Mkparịta Ụka,Discussion,education,manual
+Mmechi,Conclusion,education,manual
+Aro,Recommendation,education,manual
+Nchịkọta Orụ,Project Summary,education,manual
+Onye Nlekọta,Supervisor,education,manual
+Onye Nnyocha,Researcher,education,manual
+Nchekwa Data,Data Storage,education,manual
+Ntụgharị Asụsụ Igbo Bekee,Igbo English Translation,education,manual
+Netwọkụ Akwara,Neural Network,education,manual
+Transformer,Transformer,education,manual
+Self Attention Mechanism,Self Attention Mechanism,education,manual
+Dataset,Dataset,education,manual
+Corpus,Corpus,education,manual
+BLEU Score,BLEU Score,education,manual
+Machine Translation,Ntụgharị Asụsụ Akpaaka,education,manual
+Artificial Intelligence,Amamihe Arụrụ Arụ,education,manual
+Natural Language Processing,Nhazi Asụsụ Nkịtị,education,manual

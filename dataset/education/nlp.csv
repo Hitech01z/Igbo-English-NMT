@@ -1,0 +1,47 @@
+igbo,english,domain,source
+NLP na-enyere kọmputa ịghọta asụsụ,NLP helps computers understand language,NLP,Manual
+Asụsụ mmadụ siri ike nghọta,Human language is difficult to understand,NLP,Manual
+NLP bụ akụkụ AI,NLP is a branch of AI,NLP,Manual
+Anyi na-arụ ọrụ na asụsụ Igbo,We are working with the Igbo language,NLP,Manual
+A na-eji tokenizer kewaa ederede,A tokenizer splits text into tokens,NLP,Manual
+Anyi na-ewepụ mkpụrụokwu na-adịghị mkpa,We remove unnecessary words,NLP,Manual
+Dataset anyị nwere ederede Igbo na Bekee,Our dataset contains Igbo and English text,NLP,Manual
+NLP na-akwado ntụgharị asụsụ,NLP supports language translation,NLP,Manual
+Anyi na-amụ semantics na syntax,We study semantics and syntax,NLP,Manual
+A ga-enyocha ogo ntụgharị asụsụ,Translation quality will be evaluated,NLP,Manual
+
+Nhazi Asụsụ Nkịtị,Natural Language Processing,education,manual
+Ntụgharị Asụsụ,Machine Translation,education,manual
+Nhazi Okwu,Text Processing,education,manual
+Mgbakọ Okwu,Word Count,education,manual
+Nchịkọta Okwu,Corpus,education,manual
+Nyocha Mmetụta,Sentiment Analysis,education,manual
+Nkọwapụta Okwu,Text Classification,education,manual
+Ịmata Aha,Named Entity Recognition,education,manual
+Nchọpụta Asụsụ,Language Detection,education,manual
+Nkewa Ahịrịokwu,Sentence Segmentation,education,manual
+Nkewa Okwu,Tokenization,education,manual
+Nchịkọta Okwu Mgbọrọgwụ,Stemming,education,manual
+Nhazi Lemma,Lemmatization,education,manual
+Ntụgharị Okwu,Word Embedding,education,manual
+Nchekwa Okwu,Vocabulary,education,manual
+Nyocha Ahịrịokwu,Sentence Analysis,education,manual
+Nyocha Okwu,Word Analysis,education,manual
+Nnyocha Nkọwa,Semantic Analysis,education,manual
+Nnyocha Grama,Syntactic Analysis,education,manual
+Nghọta Asụsụ,Language Understanding,education,manual
+Ọgbọ Okwu,Text Generation,education,manual
+Mepụta Ahịrịokwu,Sentence Generation,education,manual
+Nyocha Mkparịta Ụka,Dialogue Analysis,education,manual
+Chatbot,Chatbot,education,manual
+Ajụjụ na Azịza,Question Answering,education,manual
+Nchịkọta Akụkọ,Text Summarization,education,manual
+Ntụgharị Okwu N'otu Asụsụ,Paraphrasing,education,manual
+Nyocha Mkpụrụedemede,Character Analysis,education,manual
+Nchọpụta Njehie,Error Detection,education,manual
+Mmezi Njehie,Error Correction,education,manual
+Nkọwa Okwu,Word Meaning,education,manual
+Njikọ Okwu,Word Association,education,manual
+Nnyocha Mkpọpụta,Speech Analysis,education,manual
+Nchọpụta Isiokwu,Topic Detection,education,manual
+Nchọpụta Isi Akụkọ,Topic Modeling,education,manual

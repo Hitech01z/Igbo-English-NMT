@@ -1,0 +1,31 @@
+igbo,english,domain,source
+Database,Database,technology,manual
+Data,Data,technology,manual
+Tebụl,Table,technology,manual
+Ahịrị,Row,technology,manual
+Kọlụm,Column,technology,manual
+Primary Key,Primary Key,technology,manual
+Foreign Key,Foreign Key,technology,manual
+SQL,SQL,technology,manual
+MySQL,MySQL,technology,manual
+PostgreSQL,PostgreSQL,technology,manual
+SQLite,SQLite,technology,manual
+MongoDB,MongoDB,technology,manual
+Query,Query,technology,manual
+Insert,Insert,technology,manual
+Update,Update,technology,manual
+Delete,Delete,technology,manual
+Select,Select,technology,manual
+Index,Index,technology,manual
+Backup,Backup,technology,manual
+Restore,Restore,technology,manual
+Database Server,Database Server,technology,manual
+Schema,Schema,technology,manual
+Migration,Migration,technology,manual
+Record,Record,technology,manual
+Transaction,Transaction,technology,manual
+Data Integrity,Data Integrity,technology,manual
+Normalization,Normalization,technology,manual
+Dataset,Dataset,technology,manual
+CSV File,CSV File,technology,manual
+Storage,Storage,technology,manual

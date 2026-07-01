@@ -1,0 +1,33 @@
+igbo,english,domain,source
+Ntụgharị asụsụ dị ezigbo mkpa,Translation is very important,Translation,Manual
+Anyi na-ewu translator ọhụrụ,We are building a new translator,Translation,Manual
+A ga-atụgharị ahịrịokwu a,This sentence will be translated,Translation,Manual
+Asụsụ Igbo chọrọ nkwado teknụzụ,The Igbo language needs technological support,Translation,Manual
+Model ahụ nwere ike ịtụgharị ederede,The model can translate text,Translation,Manual
+Anyi na-atụgharị Bekee gaa Igbo,We translate English into Igbo,Translation,Manual
+Anyi na-atụgharị Igbo gaa Bekee,We translate Igbo into English,Translation,Manual
+Ogo ntụgharị asụsụ dị mkpa,Translation quality is important,Translation,Manual
+A na-eji BLEU score tụọ ogo ntụgharị,A BLEU score measures translation quality,Translation,Manual
+Ntụgharị a ziri ezi,This translation is accurate,Translation,Manual
+
+igbo,english,domain,source
+Ndewo,Hello,education,manual
+Kedu ka ị mere?,How are you?,education,manual
+Ụtụtụ ọma,Good morning,education,manual
+Ehihie ọma,Good afternoon,education,manual
+Mgbede ọma,Good evening,education,manual
+Ka ọ dị,Welcome,education,manual
+Daalụ,Thank you,education,manual
+Biko,Please,education,manual
+Ndo,Sorry,education,manual
+Ka ọ dị mma?,Is it okay?,education,manual
+Aha m bụ John,My name is John,education,manual
+Kedu aha gị?,What is your name?,education,manual
+Ebee ka ị si?,Where are you from?,education,manual
+Anọ m n'ụlọ akwụkwọ,I am in school,education,manual
+Achọrọ m ịmụ,I want to learn,education,manual
+Ọ bụ eziokwu,It is true,education,manual
+Ọ bụghị eziokwu,It is not true,education,manual
+Anọ m ebe a,I am here,education,manual
+Bịa ebe a,Come here,education,manual
+Gaa ụlọ,Go home,education,manual

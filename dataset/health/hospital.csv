@@ -1,0 +1,31 @@
+igbo,english,domain,source
+Ụlọ Ọgwụ,Hospital,health,manual
+Dọkịta,Doctor,health,manual
+Nọọsụ,Nurse,health,manual
+Onye Ọrịa,Patient,health,manual
+Nlekọta Ọrịa,Patient Care,health,manual
+Ndebanye Ọrịa,Patient Registration,health,manual
+Ụlọ Nlekọta Mberede,Emergency Unit,health,manual
+Ọgwụgwọ,Treatment,health,manual
+Nnyocha Ahụ Ike,Medical Examination,health,manual
+Ịwa Ahụ,Surgery,health,manual
+Ntụrụndụ Ahụ Ike,Recovery,health,manual
+Nlekọta Ahụ Ike,Healthcare,health,manual
+Ụlọ Nwata,Children Ward,health,manual
+Ụlọ Ndị Inyom,Maternity Ward,health,manual
+Nlekọta Ndị Agadi,Elderly Care,health,manual
+Nyocha Ọbara,Blood Test,health,manual
+Nyocha Mmiri,Urine Test,health,manual
+Ụlọ Ọgwụ Obodo,Clinic,health,manual
+Onye Na-enye Ọgwụ,Pharmacist,health,manual
+Ụlọ Ọgwụ Gọọmenti,Government Hospital,health,manual
+Nlekọta Mberede,Emergency Care,health,manual
+Nnyefe Ọrịa,Patient Referral,health,manual
+Ụgbọ Mberede,Ambulance,health,manual
+Nlekọta Nwaanyị Dị Ime,Antenatal Care,health,manual
+Ịmụ Nwa,Child Delivery,health,manual
+Nlekọta Mgbe Amuchara Nwa,Postnatal Care,health,manual
+Ọgwụgwụ Ọrịa,Discharge,health,manual
+Nlekọta Ahụike Obodo,Community Health,health,manual
+Nkwado Ahụike,Health Support,health,manual
+Nchekwa Ahụ Ike,Health Protection,health,manual
