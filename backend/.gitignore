@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+checkpoints/
+saved_models/
+training_logs/
+results/
+experiments/
+
+*.pt
+*.bin
+*.ckpt
+
+.DS_Store

@@ -1,38 +1,28 @@
 # Python
-**/__pycache__/
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Virtual environments
 .venv/
-backend/.venv/
+venv/
+
+# Environment variables
+.env
+.env.local
 
 # Node
-**/node_modules/
-**/dist/
+node_modules/
+dist/
 
-# Environment files
-.env
-.env.*
-!.env.example
-
-# ML artifacts
+# Training artifacts
+checkpoints/
 saved_models/
 training_logs/
-checkpoints/
-models/
-
-# Generated outputs
-processed/
 results/
-figures/
-evaluation/
 
-# IDE
-.vscode/
-.idea/
-
-# OS
+# OS files
 .DS_Store
 Thumbs.db
+
+# Translation history
+backend/data/translation_history.csv

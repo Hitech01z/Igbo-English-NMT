@@ -1,0 +1,26 @@
+file,target,current,igbo,english,domain,source
+,,,Onye nkuzi anyi mara ezigbo ihe,Our teacher is knowledgeable,Education,Manual
+,,,Kọmputa ahụ na-arụ ọrụ nke ọma,The computer is working properly,Technology,Manual
+primary,150.0,0.0,,,,
+,,,Nsonaazu ule aputala,The examination result has been released,Education,Manual
+,,,Anyi na-amụ semantics na syntax,We study semantics and syntax,NLP,Manual
+,,,Ọzụzụ model were ọtụtụ awa,Model training took several hours,Education,Manual
+,,,Anom na klaasi otu,I am in primary one,Education,Manual
+,,,Anyi na-eji ọgụgụ isi arụ ọrụ ntụgharị asụsụ,We use artificial intelligence for translation,Education,Manual
+,,,Anyi mere quiz online,We completed an online quiz,Education,Manual
+,,,Iterative back translation na-enyere aka imezi model,Iterative back translation helps improve the model,Education,Manual
+,,,Aga m ebudata akwukwo dijital,I will download the digital textbook,Education,Manual
+,,,Nchoputa a metutara mmuta,This research concerns education,Education,Manual
+,,,Anyi nwetara nsonaazu n'izu a,We received results this week,Education,Manual
+,,,Ụlọ ọgwụ,Hospital,Health,Manual
+,,,Nchoputa anyi gosiri ezigbo nsonaazu,Our research produced good results,Education,Manual
+,,,Natural Language Processing bụ akụkụ AI,Natural Language Processing is a branch of AI,Education,Manual
+,,,Algorithm,Algorithm,Technology,Manual
+,,,Ọrụ ugbo,Farming,Agriculture,Manual
+,,,Anyi na-eme nyocha,We are conducting research,Education,Manual
+,,,Akara m di elu,My score is high,Education,Manual
+,,,Anyi na-ewu usoro ntụgharị asụsụ,We are building a translation system,Education,Manual
+,,,A na-eji fatịlaịza eme ka ihe too nke ọma,Fertilizer helps crops grow well,Agriculture,Manual
+,,,Nkuzi a di na portal,This lesson is on the portal,Education,Manual
+,,,A na-eji BLEU score tụọ ogo ntụgharị,A BLEU score measures translation quality,Translation,Manual
+,,,Isiokwu oru ngo m bu ntụgharị asụsụ igwe,My project topic is machine translation,Education,Manual

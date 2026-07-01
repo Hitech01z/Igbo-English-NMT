@@ -1,0 +1,193 @@
+file,target,current,igbo,english,domain,source
+,,,Ji,Yam,Agriculture,Manual
+final_year_project,300.0,0.0,,,,
+,,,Dọkịta nyochara onye ọrịa ahụ,The doctor examined the patient,Health,Manual
+,,,Aga m ede chapter ise,I will write chapter five,Education,Manual
+,,,Nchekwa,Storage,Technology,Manual
+,,,A ga-atụgharị ahịrịokwu a,This sentence will be translated,Translation,Manual
+,,,Anyi nyefere report anyi,We submitted our report,Education,Manual
+,,,Nlekọta,Care,Health,Manual
+translation,200.0,0.0,,,,
+,,,BLEU score na-atụ ogo ntụgharị asụsụ,BLEU score measures translation quality,Education,Manual
+,,,Anyi na-eji AI dozie nsogbu asụsụ,We use AI to solve language problems,AI_ML,Manual
+,,,Onye ndu anyi nyochara chapter mbu,Our supervisor reviewed chapter one,Education,Manual
+,,,Ahụ ike dị mkpa,Health is important,Health,Manual
+,,,Anyi chotara ihe di mkpa,We discovered important findings,Education,Manual
+,,,Anyi nwere ule online,We have an online test,Education,Manual
+,,,Anyi na-arụ ọrụ na asụsụ Igbo,We are working with the Igbo language,NLP,Manual
+,,,Aga m echebe project m,I will defend my project,Education,Manual
+,,,Anyi ga-akọ ugbo n'afọ a,We will farm this year,Agriculture,Manual
+,,,Aga m akwadebe nke oma maka ule,I will prepare properly for the examination,Education,Manual
+,,,Anyi kewara dataset n'ime train na test,We split the dataset into train and test sets,Education,Manual
+,,,A na-enye anụmanụ nri kwa ụbọchị,Animals are fed daily,Agriculture,Manual
+,,,Onye ugbo nwere ọtụtụ ihe ubi,The farmer has many crops,Agriculture,Manual
+,,,Anyi na-anakọta data maka nyocha,We are collecting data for research,Education,Manual
+,,,Anyi na-azụ ewu,We rear goats,Agriculture,Manual
+,,,Enwerem seminar echi,I have a seminar tomorrow,Education,Manual
+,,,Anyi na akwadebe maka ule,We are preparing for examinations,Education,Manual
+,,,Onye ugbo gara ugbo taa,The farmer went to the farm today,Agriculture,Manual
+,,,Ajụjụ nile sitere n'akwukwo,All questions came from the textbook,Education,Manual
+,,,Aga m ebudata akwukwo PDF,I will download the PDF document,Education,Manual
+,,,Anom na klaasi ano,I am in primary four,Education,Manual
+,,,A na-eji dataset a zụọ model,This dataset is used to train a model,Education,Manual
+,,,Onye ọrịa,Patient,Health,Manual
+,,,Akpụ,Cassava,Agriculture,Manual
+,,,Aga m eme nke oma n'ule,I will perform well in the examination,Education,Manual
+,,,A ga-akpọkọta ihe ubi n'izu ọzọ,The harvest will be gathered next week,Agriculture,Manual
+,,,A wepụrụ data ugboro ugboro,Duplicate data was removed,Education,Manual
+,,,Onye nkuzi bulitere ihe omumu,The instructor uploaded learning materials,Education,Manual
+,,,Onye nkuzi juru anyi ajuju,The lecturer asked us questions,Education,Manual
+,,,Nchọpụta a bara uru nye mmepe asụsụ Igbo,This research is useful for Igbo language development,Education,Manual
+,,,Netwọk,Network,Technology,Manual
+,,,Nkwadebe na-eweta ezigbo nsonaazu,Preparation leads to good results,Education,Manual
+,,,Anyi mepụtara data synthetic,We generated synthetic data,Education,Manual
+,,,Anyi ga-enyocha arụmọrụ model,We will evaluate the model performance,Education,Manual
+,,,Ubi ahụ buru ibu,The farm is large,Agriculture,Manual
+,,,Nwa akwukwo nile no na lecture,All students are in the lecture,Education,Manual
+,,,Anyi malitere ule n'oge,We started the examination on time,Education,Manual
+,,,Anyi dere ngwanrọ ọhụrụ,We developed new software,Technology,Manual
+,,,Ehi ahụ mụrụ nwa,The cow gave birth,Agriculture,Manual
+,,,Ogo ntụgharị asụsụ dị mkpa,Translation quality is important,Translation,Manual
+,,,Nsonaazụ gosiri mmezi dị ukwuu,The results showed significant improvement,Education,Manual
+,,,Anyi jiri SPSS nyochaa data,We used SPSS to analyze data,Education,Manual
+,,,Ahụ ike,Health,Health,Manual
+,,,Model ahụ nwere ike ịtụgharị Igbo gaa Bekee,The model can translate Igbo to English,Education,Manual
+,,,Ikpo okwu mmuta a bara uru,This learning platform is useful,Education,Manual
+,,,Aga m agu akwukwo abalị a,I will study tonight,Education,Manual
+,,,Aga m abanye na portal ulo akwukwo,I will log into the school portal,Education,Manual
+,,,Aga m ede WAEC,I will write WAEC,Education,Manual
+,,,Anyi na-atụgharị Bekee gaa Igbo,We translate English into Igbo,Translation,Manual
+,,,A ga-enyocha ogo ntụgharị asụsụ,Translation quality will be evaluated,NLP,Manual
+,,,Data ahụ echekwara nke ọma,The data was stored properly,Technology,Manual
+,,,Anom na klaasi ato,I am in primary three,Education,Manual
+,,,Anyi gara webinar taa,We attended a webinar today,Education,Manual
+,,,Nchọpụta a na-enyere nchekwa asụsụ aka,This research supports language preservation,Education,Manual
+,,,Aga m agụ maka ule semester,I will study for the semester examination,Education,Manual
+,,,Onye nlekota ule nyochara akwukwo anyi,The invigilator checked our papers,Education,Manual
+,,,Anyi jikọtara data ọhụrụ na data mbụ,We combined new data with the original data,Education,Manual
+,,,Nwa akwukwo ahu gafere ule,The student passed the examination,Education,Manual
+,,,Anom na klaasi abuo,I am in primary two,Education,Manual
+,,,Aga m aga lecture hall,I will go to the lecture hall,Education,Manual
+,,,Asụsụ Igbo bụ asụsụ nwere obere data,Igbo is a low-resource language,Education,Manual
+,,,Data dị mkpa maka ịzụlite model,Data is important for training a model,Education,Manual
+,,,Data,Data,Technology,Manual
+,,,Anyi jiri Zoom mee klas,We used Zoom for the class,Education,Manual
+,,,Fatịlaịza,Fertilizer,Agriculture,Manual
+,,,Model ọhụrụ karịrị nke mbụ arụmọrụ,The new model outperformed the previous one,Education,Manual
+,,,Anyi jiri BLEU score nyochaa model,We used BLEU score to evaluate the model,Education,Manual
+,,,Anyi na-atụgharị Igbo gaa Bekee,We translate Igbo into English,Translation,Manual
+e_learning,150.0,0.0,,,,
+,,,Anyi nwere ule mgbako taa,We had a mathematics examination today,Education,Manual
+,,,Model ahụ mụtara site na ọtụtụ atụ,The model learned from many examples,Education,Manual
+,,,Anyi na-ewepụ mkpụrụokwu na-adịghị mkpa,We remove unnecessary words,NLP,Manual
+,,,Nọọsụ ahụ nyere aka,The nurse assisted,Health,Manual
+,,,Akwukwo ule di njikere,The examination papers are ready,Education,Manual
+,,,Anyi nwere practical taa,We have practical today,Education,Manual
+,,,Aga m ebipụta nchoputa m,I will publish my research,Education,Manual
+,,,NLP bụ akụkụ AI,NLP is a branch of AI,NLP,Manual
+,,,Anyi nwere ọtụtụ ọkụkọ,We have many chickens,Agriculture,Manual
+,,,Ji toro nke ọma,Yam grew well,Agriculture,Manual
+,,,Anyi na-elekọta anụmanụ nke ọma,We take good care of animals,Agriculture,Manual
+,,,Mkpụrụ osisi,Fruit,Agriculture,Manual
+,,,Model ahụ na-amụta site na data,The model learns from data,AI_ML,Manual
+,,,Aga m arụ ọrụ m n'afọ ikpeazụ,I will work on my final year project,Education,Manual
+,,,Anyi haziri dataset tupu ọzụzụ,We cleaned the dataset before training,Education,Manual
+,,,Aga m ede NECO,I will write NECO,Education,Manual
+,,,Aga m ede ule echi,I will write an examination tomorrow,Education,Manual
+,,,Anyi jiri email nata ozi,We received information through email,Education,Manual
+,,,Teknụzụ asụsụ na-eto ngwa ngwa,Language technology is growing rapidly,Education,Manual
+,,,Ọgwụ,Medicine,Health,Manual
+,,,Anom na klas online,I am attending an online class,Education,Manual
+,,,Machine learning bụ akụkụ nke AI,Machine learning is a subset of AI,AI_ML,Manual
+,,,Anyi zara ajuju nile,We answered all the questions,Education,Manual
+,,,Dataset anyị nwere ederede Igbo na Bekee,Our dataset contains Igbo and English text,NLP,Manual
+,,,Aga m elele vidio nkuzi,I will watch the lecture video,Education,Manual
+,,,Asụsụ mmadụ siri ike nghọta,Human language is difficult to understand,NLP,Manual
+,,,Osikapa,Rice,Agriculture,Manual
+,,,Ngwanrọ,Software,Technology,Manual
+,,,Anyi gara ulo akwukwo taa,We went to school today,Education,Manual
+,,,Ntụgharị a ziri ezi,This translation is accurate,Translation,Manual
+,,,Kemistri siri ike,Chemistry is difficult,Education,Manual
+glossary,300.0,0.0,,,,
+secondary,150.0,0.0,,,,
+,,,Ebudaram ihe omumu ahu,I downloaded the course material,Education,Manual
+,,,Deep learning na-achọ nnukwu data,Deep learning requires large datasets,AI_ML,Manual
+,,,Portal ulo akwukwo na aru oru nke oma,The school portal is functioning properly,Education,Manual
+,,,Kọmputa,Computer,Technology,Manual
+,,,Anyi jikọtara sava ahụ,We connected the server,Technology,Manual
+,,,Anyi na-ewu translator ọhụrụ,We are building a new translator,Translation,Manual
+,,,Nkuzi a di na sistemu online,This lesson is available online,Education,Manual
+,,,Anyi sonyeere webinar taa,We attended a webinar today,Education,Manual
+,,,Onye nkuzi sayensi abiara taa,The science teacher came today,Education,Manual
+,,,Anyi guru sayensi taa,We studied science today,Education,Manual
+,,,Aga m lelee vidiyo ahu ozo,I will watch the video again,Education,Manual
+,,,Nri anụmanụ dị mkpa,Animal feed is important,Agriculture,Manual
+,,,NLP na-enyere kọmputa ịghọta asụsụ,NLP helps computers understand language,NLP,Manual
+,,,Onye nkuzi nyochara akwukwo ule anyi,The teacher marked our examination scripts,Education,Manual
+,,,Onye ugbo,Farmer,Agriculture,Manual
+,,,Data synthetic na-eme ka dataset buru ibu,Synthetic data increases dataset size,Education,Manual
+,,,Anom na klaasi isii,I am in primary six,Education,Manual
+,,,Anyi ga-emezi model n'ọdịnihu,We will improve the model in the future,Education,Manual
+,,,Anyi kụrụ ọka n'ubi,We planted maize on the farm,Agriculture,Manual
+,,,Ịntanetị,Internet,Technology,Manual
+,,,Akwukwo nri,Vegetable,Agriculture,Manual
+,,,NLP na-akwado ntụgharị asụsụ,NLP supports language translation,NLP,Manual
+examinations,150.0,0.0,,,,
+,,,Anyi na-amụ NLP n'ime oru ngo a,We study NLP in this project,Education,Manual
+,,,Ehi ahụ dị ike,The cow is healthy,Agriculture,Manual
+,,,Asụsụ mpaghara kwesịrị inweta nkwado teknụzụ,Local languages deserve technological support,Education,Manual
+,,,Aga m eme presentation,I will make a presentation,Education,Manual
+,,,Anyi mechara ule anyi,We completed our examination,Education,Manual
+,,,Nsonaazụ ikpeazụ dị mma,The final results are good,Education,Manual
+,,,Data validation nyere aka nyochaa model,Validation data helped evaluate the model,Education,Manual
+,,,Ọbara,Blood,Health,Manual
+,,,Abum nwa akwukwo mahadum,I am a university student,Education,Manual
+,,,O dara ule ahu,He failed the examination,Education,Manual
+,,,Anyi gara laboratory taa,We went to the laboratory today,Education,Manual
+,,,Ule semester ga amalite n'izu na-abia,Semester examinations will begin next week,Education,Manual
+,,,A na-eji algorithm zụọ model,A model is trained using algorithms,AI_ML,Manual
+,,,Anom na klaasi ise,I am in primary five,Education,Manual
+,,,Ọgụgụ isi arụpụtara na-enyere mmadụ aka,Artificial intelligence assists humans,AI_ML,Manual
+,,,Neural Machine Translation na-eji deep learning,Neural Machine Translation uses deep learning,Education,Manual
+,,,Ọka,Maize,Agriculture,Manual
+,,,Mmemme,Program,Technology,Manual
+,,,Model ahụ nwere ike ịtụgharị ederede,The model can translate text,Translation,Manual
+,,,Aga m ebugo assignment m,I will upload my assignment,Education,Manual
+,,,Ugbo anụmanụ bara uru,Livestock farming is profitable,Agriculture,Manual
+,,,Anyi nwere practical laboratory,We have a laboratory practical,Education,Manual
+,,,Neural network nwere ọtụtụ layers,A neural network contains many layers,AI_ML,Manual
+,,,Vidiyo a bara uru nke ukwuu,This video is very useful,Education,Manual
+,,,Enwerem lecture n'ututu,I have a lecture this morning,Education,Manual
+,,,Data ka ukwuu na-enye ezigbo nsonaazụ,More data produces better results,AI_ML,Manual
+,,,A na-eji tokenizer kewaa ederede,A tokenizer splits text into tokens,NLP,Manual
+,,,Biology bu isiokwu m kacha amasiri,Biology is my favourite subject,Education,Manual
+university,300.0,0.0,,,,
+,,,Nchọpụta a na-elekwasị anya na asụsụ Igbo,This research focuses on the Igbo language,Education,Manual
+,,,Anom na akwadebe maka ule,I am preparing for an examination,Education,Manual
+,,,Model ahụ nwekwara ike ịtụgharị Bekee gaa Igbo,The model can also translate English to Igbo,Education,Manual
+,,,Nyocha,Examination,Health,Manual
+,,,Anyi nyefere assignment anyi,We submitted our assignment,Education,Manual
+,,,A nyere ya ọgwụ,He was given medicine,Health,Manual
+,,,Model ahụ nwere ike ime amụma,The model can make predictions,AI_ML,Manual
+,,,Aga m ede JAMB,I will write JAMB,Education,Manual
+,,,Onye nkuzi zipuru ihe omumu,The teacher sent the learning material,Education,Manual
+,,,Ọkụkọ ahụ tinyere akwa,The chicken laid eggs,Agriculture,Manual
+ai_ml,200.0,0.0,,,,
+,,,Ntụgharị asụsụ dị ezigbo mkpa,Translation is very important,Translation,Manual
+,,,Anyi chọrọ ezigbo dataset,We need a quality dataset,Education,Manual
+,,,Anyi jiri Google Classroom muta ihe,We used Google Classroom to learn,Education,Manual
+,,,M natara ozi email sitere n'aka onye nkuzi,I received an email from the lecturer,Education,Manual
+,,,Ịntanetị anaghị arụ ọrụ taa,The internet is not working today,Technology,Manual
+,,,Ọrịa,Sickness,Health,Manual
+,,,Anyi kparita uka na forum mmuta,We discussed in the learning forum,Education,Manual
+nlp,200.0,0.0,,,,
+,,,Mmiri ozuzo nyere aka n'ugbo,Rainfall helped the farm,Agriculture,Manual
+,,,Anyi natara nsonaazu anyi,We received our results,Education,Manual
+,,,Anyi jiri Excel hazie data,We used Excel to organize data,Education,Manual
+,,,Anyi chekwara model ikpeazụ,We saved the final model,Education,Manual
+,,,A kụrụ osikapa n'ubi,Rice was planted on the farm,Agriculture,Manual
+,,,Physics na-ato m uto,Physics interests me,Education,Manual
+,,,Akara m di ala,My score is low,Education,Manual
+,,,Dọkịta,Doctor,Health,Manual
+,,,Anyi nyochara njehie ntụgharị asụsụ,We analyzed translation errors,Education,Manual
+,,,Aga m ede report,I will write a report,Education,Manual
