@@ -9,7 +9,7 @@ from app.api.history import router as history_router
 from app.api.dataset_explorer import (
     router as dataset_explorer_router)
 from app.api.admin import router as admin_router
-from fastapi.middleware.cors import CORSMiddleware
+
 import os
 
 
@@ -18,13 +18,6 @@ app = FastAPI(
     version="1.0"
 )
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 app.include_router(
     translate_router,
