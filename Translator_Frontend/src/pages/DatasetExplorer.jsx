@@ -1,88 +1,84 @@
 import { useEffect, useState } from "react";
-
-import DatasetTable from "../components/DatasetTable";
-import SearchBar from "../components/SearchBar";
-import FilterBar from "../components/FilterBar";
-import LoadingSpinner from "../components/LoadingSpinner";
-
-import { getDataset } from "../services/DatasetService";
+import api from "../services/api";
 
 export default function DatasetExplorer() {
-  const [rows, setRows] = useState([]);
-  const [search, setSearch] = useState("");
-  const [domain, setDomain] = useState("");
-  const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    loadRows();
-  }, []);
+    const [rows, setRows] = useState([]);
 
-  async function loadRows() {
-    try {
-      const data = await getDataset();
+    useEffect(() => {
 
-      console.log("Dataset:", data);
+        api.get("/dataset")
+           .then((res) => setRows(res.data));
 
-      setRows(data);
-    } catch (error) {
-      console.error(error);
-    } finally {
-      setLoading(false);
-    }
-  }
-
-  if (loading) {
-    return <LoadingSpinner />;
-  }
-
-  if (!Array.isArray(rows)) {
-    return (
-      <div className="max-w-7xl mx-auto px-4 py-12">
-        <h1 className="text-4xl font-bold mb-6">
-          Dataset Explorer
-        </h1>
-
-        <p className="text-red-400">
-          Dataset API returned invalid data.
-        </p>
-      </div>
-    );
-  }
-
-  const filtered = rows.filter((row) => {
-    const text =
-      `${row.igbo} ${row.english}`.toLowerCase();
+    }, []);
 
     return (
-      text.includes(search.toLowerCase()) &&
-      (!domain ||
-        row.domain?.toLowerCase() === domain)
+
+        <div className="p-8">
+
+            <h1 className="text-4xl font-bold mb-8">
+
+                Dataset Explorer
+
+            </h1>
+
+            <div className="overflow-auto rounded-xl">
+
+                <table className="w-full">
+
+                    <thead>
+
+                        <tr className="bg-slate-800">
+
+                            <th className="p-3 text-left">
+
+                                Igbo
+
+                            </th>
+
+                            <th className="p-3 text-left">
+
+                                English
+
+                            </th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        {rows.map((row, i) => (
+
+                            <tr
+                                key={i}
+                                className="border-b border-slate-700"
+                            >
+
+                                <td className="p-3">
+
+                                    {row.igbo}
+
+                                </td>
+
+                                <td className="p-3">
+
+                                    {row.english}
+
+                                </td>
+
+                            </tr>
+
+                        ))}
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
     );
-  });
 
-  return (
-    <div className="max-w-7xl mx-auto px-4 py-8 md:py-12">
-
-      <h1 className="text-3xl md:text-4xl font-bold mb-8">
-        Dataset Explorer
-      </h1>
-
-      <div className="grid gap-4 md:grid-cols-2 mb-8">
-
-        <SearchBar
-          value={search}
-          onChange={setSearch}
-        />
-
-        <FilterBar
-          value={domain}
-          onChange={setDomain}
-        />
-
-      </div>
-
-      <DatasetTable rows={filtered} />
-
-    </div>
-  );
 }

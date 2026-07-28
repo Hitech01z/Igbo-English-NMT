@@ -1,0 +1,41 @@
+id,igbo,english,domain,source,quality_score,rejection_reasons
+MON004,Mmiri ozuzo nyere ihe ọkụkụ aka ito.,the crops.,agriculture,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON008,Ehi na-ata ahịhịa n'ala ubi.,weeds damage farm.,agriculture,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON009,Ọrụ ugbo chọrọ ndidi na ike.,farming requires patience.,agriculture,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON013,A na-echekwa ọka n'ebe kpọrọ nkụ.,this place of a place of worship is a place of worship in a place of worship.,agriculture,baseline_model_round_1,50,excessive_word_repetition
+MON014,Ọkụ nwere ike imebi ihe ọkụkụ.,can damage crops.,agriculture,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON020,Ala ọma na-enyere ihe ọkụkụ aka ito ngwa ngwa.,good governance helps a person.,agriculture,baseline_model_round_1,0,invalid_output
+MON031,Ụlọ ahịa ahụ na-emeghe kwa ụbọchị.,the market day.,business,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON055,Ọtụtụ ezinụlọ na-echekwa omenala ha.,they many families.,culture,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON058,A na-akụziri ụmụaka nkwanye ùgwù.,children good governance makes a person.,culture,baseline_model_round_1,0,invalid_output
+MON060,Obodo ahụ nwere ọtụtụ akụkọ ihe mere eme.,the town has many places of many places of worship.,culture,baseline_model_round_1,60,repeated_phrase
+MON061,Kedu ka ị mere taa?,where are you?,daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON062,A mere m nke ọma.,i am well.,daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON065,Biko nyere m aka.,please help me.,daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON070,"Ee, enwere m oge.","yes, i have time.",daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON073,Echegbula onwe gị.,thank you.,daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON075,Amaghị m azịza ya.,i am sleepy.,daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON076,Ka anyị gaa ọnụ.,let us talk.,daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON078,Kpọọ m mgbe ị rutere.,"no, i do not know.",daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON080,Ka chi fo.,good morning.,daily_conversation,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON084,Ọmụmụ ihe chọrọ mgbalị.,learning is want.,education,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON086,Onye nkuzi nyere ụmụ akwụkwọ ọrụ ụlọ.,the teacher gave teacher gave them homework.,education,baseline_model_round_1,60,repeated_phrase
+MON117,A na-anụ egwu n'ebe dị anya.,come here.,general,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON129,Ụlọ ọgwụ ọha na-enyere ọtụtụ mmadụ aka.,many people help.,government,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON133,A na-eme nzukọ maka mmepe obodo.,this community development.,government,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON134,Obodo chọrọ ezigbo okporo ụzọ.,good governance help a community.,government,baseline_model_round_1,0,invalid_output
+MON136,Iwu ọhụrụ malitere ịrụ ọrụ.,a new law.,government,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON146,Ịsa aka na-enyere aka igbochi ọrịa.,help the body.,health,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON159,A na-enye ụmụaka ọgwụ mgbochi.,children this soil.,health,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON168,Ọ na-agụ akwụkwọ nsọ n'ụlọ.,he returned home.,religion,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON175,Ọ gara n'ụlọ ekpere n'ehihie.,he went to a place in a place in a place in a place in a place.,religion,baseline_model_round_1,0,translation_too_long_relative_to_source;excessive_word_repetition;repeated_phrase
+MON183,Ịntanetị na-enyere ndị mmadụ aka ịkparịta ụka.,technology helps people.,technology,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON190,Teknụzụ na-agbanwe ndụ mmadụ.,people seek a person ' s ' s '.,technology,baseline_model_round_1,60,repeated_phrase
+MON194,A na-eji paswọọdụ echekwa akaụntụ.,a good governance is a person.,technology,baseline_model_round_1,0,invalid_output
+MON200,Ndị ọrụ kwesịrị ichekwa ozi nkeonwe ha.,they should work.,technology,baseline_model_round_1,70,excessive_unknown_vocabulary
+MON092,Ụmụ akwụkwọ bịara klaasị n'oge.,the students study in the classroom.,education,baseline_model_round_1,100,duplicate_translation
+MON105,Nne m na-esi nri n'ọnụ ụlọ.,my mother is at home.,general,baseline_model_round_1,100,duplicate_translation
+MON109,Akwụkwọ ahụ dị n'elu tebụl.,the book is on the book.,general,baseline_model_round_1,100,duplicate_translation
+MON120,Anyị ga-ahụ ibe anyị echi.,we will plant crops tomorrow.,general,baseline_model_round_1,100,duplicate_translation
+MON128,Ndị isi obodo nwere nzukọ.,the community prepared the community.,government,baseline_model_round_1,100,duplicate_translation
+MON193,Onye mmemme chọtara njehie na koodu ahụ.,the programmer checked the code.,technology,baseline_model_round_1,100,duplicate_translation

@@ -1,0 +1,99 @@
+igbo,reference,prediction,domain,model,word_overlap,exact_match,reference_length,prediction_length,length_difference
+Ndị mmadụ na-atụ anya ezi ọchịchị.,People expect good governance.,people wore traditional food for the people.,unknown,Round 1,0.25,0,4,7,3
+Anyị ga-ahụ gị echi.,We will see you tomorrow.,we will plant will plant crops tomorrow.,unknown,Round 1,0.6,0,5,7,2
+Ịhụnanya na-eme ka ndị mmadụ dịrị n'otu.,Love brings people together.,sharing food brings people together.,unknown,Round 1,0.75,0,4,5,1
+Ọ bịara n'ụtụtụ.,He came in the morning.,he returned home.,unknown,Round 1,0.2,0,5,3,2
+Ụmụ akwụkwọ ghọtara ihe ọmụmụ ahụ.,The students understood the lesson.,the students are learning the students.,unknown,Round 1,0.5,0,5,6,1
+Onye ọrịa chọrọ nyocha ọzọ.,The patient needs another test.,the patient should take the patient.,unknown,Round 1,0.4,0,5,6,1
+Ebee ka ị na-aga?,Where are you going?,where are you?,unknown,Round 1,0.5,0,4,3,1
+Ọ na-aga ọrụ.,He is going to work.,he works to work.,unknown,Round 1,0.6,0,5,4,1
+Ụmụaka kwesịrị ịmụta ezi omume.,Children should learn good behavior.,children should learn their language.,unknown,Round 1,0.6,0,5,5,0
+Anyị haziri ọrụ ubi nke ọma.,We organized the farm work well.,we should work together.,unknown,Round 1,0.3333333333333333,0,6,4,2
+Ọ mụtara nkà ọhụrụ.,He learned a new skill.,he learned new skills.,unknown,Round 1,0.6,0,5,4,1
+Ajụjụ a siri ike.,This question is difficult.,this difficult.,unknown,Round 1,0.5,0,4,2,2
+Ndị okenye na-akụziri ụmụaka akụkọ ọdịnala.,Elders teach children traditional stories.,children elders their culture.,unknown,Round 1,0.4,0,5,4,1
+Ọ na-ekwu eziokwu.,He is telling the truth.,he has a fever.,unknown,Round 1,0.2,0,5,4,1
+Ndị isi kpọrọ nzukọ.,The leaders called a meeting.,the citizens is looking for the body.,unknown,Round 1,0.2,0,5,7,2
+Ịkụ ihe n'ụzọ ziri ezi na-abawanye ihe ubi.,Proper planting increases the harvest.,the family is not working.,unknown,Round 1,0.2,0,5,5,0
+Ngwaahịa a dị mma.,This product is good.,this is good.,unknown,Round 1,0.75,0,4,3,1
+Ị ghọtara?,Do you understand?,do you have time?,unknown,Round 1,0.6666666666666666,0,3,4,1
+Ụlọ ọrụ ahụ kwalitere ngwaahịa ya.,The company promoted its product.,the company sells products.,unknown,Round 1,0.4,0,5,4,1
+"Ee, achọrọ m enyemaka.","Yes, I need help.","yes, i need help.",unknown,Round 1,1.0,1,4,4,0
+Ndị mmadụ debara aha ha.,People registered their names.,people should use technology responsibly.,unknown,Round 1,0.25,0,4,5,1
+Ụlọ ahịa ahụ meghere n'ụtụtụ.,The shop opened in the morning.,the customer paid at the morning.,unknown,Round 1,0.4,0,6,6,0
+Ofufe ahụ malitere n'oge.,The worship service started on time.,the place of worship service.,unknown,Round 1,0.3333333333333333,0,6,5,1
+Onye ahịa nyere echiche ya.,The customer gave his opinion.,the customer gave advice.,unknown,Round 1,0.6,0,5,4,1
+Ọ na-arụ ọrụ n'ụlọ ọrụ.,He works in an office.,he works part time.,unknown,Round 1,0.4,0,5,4,1
+"Mba, aghọtaghị m.","No, I do not understand.","no, i do not have time.",unknown,Round 1,0.8,0,5,6,1
+Ọtụtụ ndị na-amalite obere azụmahịa.,Many people start small businesses.,many people help one another.,unknown,Round 1,0.4,0,5,5,0
+Dọkịta mere nyocha.,The doctor conducted an examination.,the doctor told him to learn.,unknown,Round 1,0.4,0,5,6,1
+Anọ m n'ụlọ.,I am at home.,i am going home.,unknown,Round 1,0.75,0,4,4,0
+Ịgbaghara mmadụ bụ ihe ọma.,Forgiving a person is good.,people is a person ' s good.,unknown,Round 1,0.8,0,5,7,2
+Ha debere ihe ọmụmụ ha.,They wrote down their lessons.,they want to increase be ancestors.,unknown,Round 1,0.2,0,5,6,1
+Ezinụlọ ahụ na-ekpe ekpere ọnụ.,The family prays together.,the family ate together.,unknown,Round 1,0.75,0,4,4,0
+Onye ahụ chọrọ akwụkwọ ikike.,That person needs a license.,the student needs help.,unknown,Round 1,0.2,0,5,4,1
+Ha na-amụ sayensị.,They study science.,they study their culture.,unknown,Round 1,0.6666666666666666,0,3,4,1
+Ịdị ọcha na-enyere aka igbochi ọrịa.,Cleanliness helps prevent disease.,cleanliness helps prevent germs.,unknown,Round 1,0.75,0,4,4,0
+Nri ọdịnala bụ akụkụ nke omenala.,Traditional food is part of culture.,tradition is an important part of culture.,unknown,Round 1,0.6666666666666666,0,6,7,1
+Obi dịkwa m ụtọ izute gị.,I am also happy to meet you.,i am leaving now.,unknown,Round 1,0.2857142857142857,0,7,4,3
+Ọ dị mkpa.,It is important.,it is important to avoid too much stress.,unknown,Round 1,0.6666666666666666,0,3,8,5
+Akụkọ ọdịnala na-akụzi ọtụtụ ihe.,Traditional stories teach many things.,many traditional music.,unknown,Round 1,0.4,0,5,3,2
+Ndị okenye na-akụzi ezi omume.,Elders teach good behavior.,good behavior helps the program.,unknown,Round 1,0.25,0,4,5,1
+Data nwere ike ịdị mkpa.,Data can be important.,learning is important.,unknown,Round 1,0.25,0,4,3,1
+Gbururu na-emebi gburugburu ebe obibi.,Pollution damages the environment.,the doctor told a visitor.,unknown,Round 1,0.25,0,4,5,1
+Ọrịa ahụ kwụsịrị mgbe ọgwụgwọ gasịrị.,The illness stopped after treatment.,the patient should take the patient.,unknown,Round 1,0.2,0,5,6,1
+Ịrụkọ ọrụ ọnụ na-enyere ụmụ akwụkwọ aka.,Working together helps students.,the students work together.,unknown,Round 1,0.0,0,4,4,0
+Ụmụaka na-ekele ndị okenye.,Children greet elders.,children should know their children ' s elders.,unknown,Round 1,0.6666666666666666,0,3,8,5
+Traktọ ahụ na-akọ ala.,The tractor ploughs the land.,the market research was useful.,unknown,Round 1,0.25,0,5,5,0
+Kedu oge ọ bụ?,What time is it?,he is a you?,unknown,Round 1,0.25,0,4,4,0
+Ha nabatara ọbịa nke ọma.,They welcomed the visitor warmly.,they want to take good.,unknown,Round 1,0.2,0,5,5,0
+Ezinụlọ ahụ na-asọpụrụ omenala ha.,The family respects their traditions.,they gave the family food for the family.,unknown,Round 1,0.4,0,5,8,3
+Ọ na-eji ekwentị kpọọ enyi ya.,He uses his phone to call his friend.,he uses the phone.,unknown,Round 1,0.2857142857142857,0,8,4,4
+Ọ masịghị m.,I do not like it.,i am going to learn.,unknown,Round 1,0.2,0,5,5,0
+Ha na-akụ akwụkwọ nri.,They are planting vegetables.,they sold vegetables at the vegetables.,unknown,Round 1,0.5,0,4,6,2
+Kọmputa bụ ngwaọrụ dị mkpa.,A computer is an important device.,computer hardware is important.,unknown,Round 1,0.3333333333333333,0,6,4,2
+Ọzụzụ anụ ụlọ na-eweta ego.,Livestock farming brings income.,we should listen to school.,unknown,Round 1,0.0,0,4,5,1
+Onye nkuzi nọ na klaasị.,The teacher is in the classroom.,the teacher stood in front of the classroom.,unknown,Round 1,0.8,0,6,8,2
+Ọ dị mkpa ichekwa data.,It is important to protect data.,it is important to avoid too much stress.,unknown,Round 1,0.6666666666666666,0,6,8,2
+Nje kọmputa nwere ike imebi data.,Computer viruses can damage data.,"no, i do not have time.",unknown,Round 1,0.0,0,5,6,1
+Ndị enyi nyere ya nkwado.,His friends gave him support.,the teacher gave advice.,unknown,Round 1,0.2,0,5,4,1
+Ha ji obi ụtọ mee emume ahụ.,They celebrated happily.,they sold the market.,unknown,Round 1,0.3333333333333333,0,3,4,1
+Ngwaahịa ahụ adịghị mma.,The product is not good.,the product is not good.,unknown,Round 1,1.0,1,5,5,0
+Ọrụ ugbo nwere ihe ịma aka.,Farming has challenges.,the farmer has experience.,unknown,Round 1,0.3333333333333333,0,3,4,1
+Ọ bụ ezigbo enyi m.,He is my good friend.,i am going to school.,unknown,Round 1,0.0,0,5,5,0
+Ewu ahụ riri ahịhịa.,The goat ate grass.,the classroom is popular.,unknown,Round 1,0.25,0,4,4,0
+Ha chọrọ ego iji gbasaa azụmahịa.,They need money to expand the business.,they want to increase profit.,unknown,Round 1,0.2857142857142857,0,7,5,2
+Ha na-ewe ihe ubi n'oge.,They harvest the crops on time.,they sold,unknown,Round 1,0.16666666666666666,0,6,2,4
+Emume ọdịnala ahụ malitere n'ụtụtụ.,The traditional celebration began in the morning.,the celebration took place in the morning.,unknown,Round 1,0.6666666666666666,0,7,7,0
+Koodu ahụ na-arụ ọrụ nke ọma.,The code works well.,the company operates in the body.,unknown,Round 1,0.25,0,4,6,2
+Ndị mmadụ na-enye ibe ha ekele n'emume.,People greet one another at celebrations.,people respect one another at home.,unknown,Round 1,0.6666666666666666,0,6,6,0
+Agụụ na-agụ m.,I am hungry.,i am going to school.,unknown,Round 1,0.6666666666666666,0,3,5,2
+Ịhụnanya na obiọma na-eme ka ụwa ka mma.,Love and kindness make the world better.,the farmer sold his makes.,unknown,Round 1,0.14285714285714285,0,7,5,2
+"Mba, achọghị m ihe ọ bụla.","No, I do not need anything.",i do not know.,unknown,Round 1,0.5,0,6,4,2
+Ndị mmadụ kwesịrị ibi ndụ n'ịhụnanya na udo.,People should live in love and peace.,people should use technology responsibly.,unknown,Round 1,0.2857142857142857,0,7,5,2
+Nọọsụ na-enyere onye ọrịa aka.,The nurse helps the patient.,the patient takes care of the patient.,unknown,Round 1,0.5,0,5,7,2
+Onye nkuzi jụrụ ajụjụ.,The teacher asked a question.,the teacher answered the teacher gave.,unknown,Round 1,0.4,0,5,6,1
+Ọ na-eji teknụzụ webụ arụ ọrụ.,He works with web technology.,he uses the file.,unknown,Round 1,0.2,0,5,4,1
+Onye ọrụ ugbo rụziri igwe ya.,The farmer repaired his machine.,the farmer raises his harvest.,unknown,Round 1,0.6,0,5,5,0
+Ụlọ akwụkwọ ahụ dị n'obodo.,The school is in the town.,the school is on the school.,unknown,Round 1,0.6,0,6,6,0
+Ha rụchara ọrụ ubi tupu mmiri amalite.,They finished the farm work before the rain started.,they sold,unknown,Round 1,0.125,0,9,2,7
+Obiọma dị mkpa n'etiti ndị mmadụ.,Kindness is important among people.,people respect others.,unknown,Round 1,0.0,0,5,3,2
+Mmemme ahụ na-enyere ọtụtụ mmadụ aka.,The program helps many people.,many people help one another.,unknown,Round 1,0.2,0,5,5,0
+Osisi chọrọ ìhè anyanwụ.,Plants need sunlight.,the family want to university.,unknown,Round 1,0.0,0,3,5,2
+Ọ masịrị ya ịgụ akwụkwọ.,He likes reading.,he forgave his his his hands.,unknown,Round 1,0.3333333333333333,0,3,6,3
+Onye ọrụ ugbo na-eji hoe arụ ọrụ.,The farmer uses a hoe to work.,the farmer is a community.,unknown,Round 1,0.42857142857142855,0,7,5,2
+Ha ji igwe ewe ihe ubi.,They used a machine to harvest the crops.,they sold,unknown,Round 1,0.125,0,8,2,6
+Email na-enyere ndị mmadụ izipu ozi.,Email helps people send messages.,people help one another.,unknown,Round 1,0.2,0,5,4,1
+Geography na-akụzi banyere ụwa.,Geography teaches about the world.,the students are learning a person.,unknown,Round 1,0.2,0,5,6,1
+Robot nwere ike ịrụ ụfọdụ ọrụ.,A robot can perform some tasks.,hard work for a person.,unknown,Round 1,0.16666666666666666,0,6,5,1
+Ọrụ a chọrọ nkà.,This job requires skills.,this job requires experience.,unknown,Round 1,0.75,0,4,4,0
+Ụlọ ahụ jupụtara n'isi nri.,The house was filled with the smell of food.,the company opened in the bank.,unknown,Round 1,0.125,0,9,6,3
+Onye nkuzi dere n'elu bọọdụ.,The teacher wrote on the board.,the teacher explained the teacher explained the topic.,unknown,Round 1,0.4,0,6,8,2
+Ndị mmadụ kwesịrị inyere ibe ha aka.,People should help one another.,people should respect one another ' s beliefs.,unknown,Round 1,0.6,0,5,8,3
+Ngwaahịa ọhụrụ ahụ dị n'ahịa.,The new product is in the market.,the product is new on the product.,unknown,Round 1,0.6666666666666666,0,7,7,0
+Ịgụ akwụkwọ na-eme ka mmadụ mara ihe.,Reading makes a person knowledgeable.,people read the students are still.,unknown,Round 1,0.0,0,5,6,1
+Onye ahịa natara ngwaahịa ya.,The customer received his product.,the customer paid for the product.,unknown,Round 1,0.6,0,5,6,1
+Ji ahụ buru ibu.,That yam is big.,the price of the product is low.,unknown,Round 1,0.25,0,4,7,3
+Ụzụ nwere uru na ọghọm.,Technology has advantages and disadvantages.,the technology has a new hospital.,unknown,Round 1,0.4,0,5,6,1
+Omenala na-agbanwe ka oge na-aga.,Culture changes over time.,elders is part of the database.,unknown,Round 1,0.0,0,4,6,2
+Gọọmenti na-anakọta ụtụ isi.,The government collects taxes.,the government supports public has a community.,unknown,Round 1,0.5,0,4,7,3

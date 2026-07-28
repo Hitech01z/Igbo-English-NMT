@@ -1,10 +1,11 @@
 import api from "./api";
 
-export async function contribute(data) {
+export async function submitContribution(igbo, english) {
 
-  return api.post(
-    "/contribute/",
-    data
-  );
+    const response = await api.post("/contribute", {
+        igbo,
+        english,
+    });
 
+    return response.data;
 }

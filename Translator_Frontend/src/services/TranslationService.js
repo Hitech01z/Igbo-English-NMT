@@ -1,19 +1,15 @@
-import API_URL from "./api";
+// src/services/translationService.js
 
-export async function translateText(text, direction) {
-  const response = await fetch(
-    `${API_URL}/translate`,
-    {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        text,
-        direction,
-      }),
-    }
-  );
+import api from "./api";
 
-  return response.json();
+export async function translateText(
+  text,
+  source_language,
+  target_language
+) {
+  return api.post("/translate/", {
+    text,
+    source_language,
+    target_language,
+  });
 }

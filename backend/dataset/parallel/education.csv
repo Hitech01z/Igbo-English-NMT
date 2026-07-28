@@ -1,0 +1,101 @@
+id,igbo,english,domain
+EDU001,Nwa akwụkwọ na-aga ụlọ akwụkwọ.,The student is going to school.,education
+EDU002,Ụmụ akwụkwọ na-amụ ihe.,The students are studying.,education
+EDU003,Nwa akwụkwọ na-agụ akwụkwọ.,The student is reading a book.,education
+EDU004,Onye nkuzi na-akụzi ụmụ akwụkwọ.,The teacher teaches the students.,education
+EDU005,Ụlọ akwụkwọ ahụ dị n'obodo.,The school is in the town.,education
+EDU006,Ụmụaka na-abịa n'ụlọ akwụkwọ n'oge.,The children come to school on time.,education
+EDU007,Ụlọ akwụkwọ ahụ meghere n'ụtụtụ.,The school opened in the morning.,education
+EDU008,Nwa akwụkwọ ahụ nwere akwụkwọ.,The student has a book.,education
+EDU009,Akwụkwọ ahụ dị na tebụl.,The book is on the table.,education
+EDU010,Ụmụ akwụkwọ nọ na klaasị.,The students are in the classroom.,education
+EDU011,Onye nkuzi nọ na klaasị.,The teacher is in the classroom.,education
+EDU012,Onye nkuzi dere n'elu bọọdụ.,The teacher wrote on the board.,education
+EDU013,Ụmụ akwụkwọ na-ede ihe.,The students are writing.,education
+EDU014,Nwa akwụkwọ ahụ na-eji pensụl ede ihe.,The student uses a pencil to write.,education
+EDU015,Ha na-eji akwụkwọ ede ihe.,They use paper to write.,education
+EDU016,Onye nkuzi jụrụ ajụjụ.,The teacher asked a question.,education
+EDU017,Nwa akwụkwọ ahụ zara ajụjụ ahụ.,The student answered the question.,education
+EDU018,Ajụjụ ahụ dị mfe.,The question is easy.,education
+EDU019,Ajụjụ ahụ siri ike.,The question is difficult.,education
+EDU020,Ụmụ akwụkwọ na-amụta ihe ọhụrụ.,The students are learning new things.,education
+EDU021,Ọmụmụ ihe dị mkpa.,Learning is important.,education
+EDU022,Agụmakwụkwọ na-enyere mmadụ aka.,Education helps people.,education
+EDU023,Ụmụaka kwesịrị ịga ụlọ akwụkwọ.,Children should go to school.,education
+EDU024,Ndị nne na nna na-akwado agụmakwụkwọ.,Parents support education.,education
+EDU025,Onye nkuzi na-enyere ụmụ akwụkwọ aka.,The teacher helps the students.,education
+EDU026,Nwa akwụkwọ ahụ chọrọ enyemaka.,The student needs help.,education
+EDU027,Onye nkuzi kọwara ihe ahụ.,The teacher explained the topic.,education
+EDU028,Ụmụ akwụkwọ ghọtara ihe ọmụmụ ahụ.,The students understood the lesson.,education
+EDU029,Nwa akwụkwọ ahụ aghọtaghị ajụjụ ahụ.,The student did not understand the question.,education
+EDU030,Onye nkuzi kọwara ya ọzọ.,The teacher explained it again.,education
+EDU031,Ha na-amụ mgbakọ na mwepụ.,They study mathematics.,education
+EDU032,Ha na-amụ sayensị.,They study science.,education
+EDU033,Ụmụ akwụkwọ na-amụ asụsụ Igbo.,The students study the Igbo language.,education
+EDU034,Ha na-amụ Bekee n'ụlọ akwụkwọ.,They study English at school.,education
+EDU035,Akụkọ ihe mere eme bụ isiokwu dị mkpa.,History is an important subject.,education
+EDU036,Geography na-akụzi banyere ụwa.,Geography teaches about the world.,education
+EDU037,Nwa akwụkwọ ahụ hụrụ sayensị n'anya.,The student likes science.,education
+EDU038,Ọ masịrị ya ịgụ akwụkwọ.,He likes reading.,education
+EDU039,Ịgụ akwụkwọ na-eme ka mmadụ mara ihe.,Reading makes a person knowledgeable.,education
+EDU040,Ụmụ akwụkwọ na-agụ akwụkwọ n'ọbá akwụkwọ.,The students read books in the library.,education
+EDU041,Ọbá akwụkwọ ahụ nwere ọtụtụ akwụkwọ.,The library has many books.,education
+EDU042,Nwa akwụkwọ ahụ gbaziri akwụkwọ.,The student borrowed a book.,education
+EDU043,Ọ laghachiri akwụkwọ ahụ.,He returned the book.,education
+EDU044,Ụmụ akwụkwọ na-amụ ihe n'ụlọ.,The students study at home.,education
+EDU045,Ọ na-eme ihe omume ụlọ.,He does homework.,education
+EDU046,Onye nkuzi nyere ha ọrụ ụlọ.,The teacher gave them homework.,education
+EDU047,Ha rụchara ọrụ ụlọ ha.,They finished their homework.,education
+EDU048,Nwa akwụkwọ ahụ na-akwadebe maka ule.,The student is preparing for an examination.,education
+EDU049,Ule ahụ ga-amalite echi.,The examination will begin tomorrow.,education
+EDU050,Ụmụ akwụkwọ dere ule ha.,The students wrote their examination.,education
+EDU051,Ule ahụ siri ike.,The examination was difficult.,education
+EDU052,Nwa akwụkwọ ahụ gafere ule ahụ.,The student passed the examination.,education
+EDU053,Nwa akwụkwọ ahụ dara ule ahụ.,The student failed the examination.,education
+EDU054,Ọ gụrụ akwụkwọ nke ọma.,He studied well.,education
+EDU055,Ịgụ akwụkwọ na-enyere ụmụ akwụkwọ aka.,Studying helps students.,education
+EDU056,Onye nkuzi nyere ndụmọdụ.,The teacher gave advice.,education
+EDU057,Ụmụ akwụkwọ gere onye nkuzi ntị.,The students listened to the teacher.,education
+EDU058,Ọ dị mkpa ige ntị na klaasị.,It is important to listen in class.,education
+EDU059,Ụmụ akwụkwọ jụrụ ọtụtụ ajụjụ.,The students asked many questions.,education
+EDU060,Onye nkuzi zara ajụjụ ha.,The teacher answered their questions.,education
+EDU061,Ụlọ akwụkwọ ahụ nwere ọtụtụ klaasị.,The school has many classrooms.,education
+EDU062,Klaasị ahụ dị ọcha.,The classroom is clean.,education
+EDU063,Ụmụ akwụkwọ nọ ọdụ n'oche.,The students are sitting on chairs.,education
+EDU064,Onye nkuzi guzoro n'ihu klaasị.,The teacher stood in front of the classroom.,education
+EDU065,Ụmụ akwụkwọ na-arụkọ ọrụ ọnụ.,The students work together.,education
+EDU066,Ha mere ọrụ otu.,They did group work.,education
+EDU067,Ịrụkọ ọrụ ọnụ na-enyere ụmụ akwụkwọ aka.,Working together helps students.,education
+EDU068,Nwa akwụkwọ ahụ gosipụtara ọrụ ya.,The student presented his work.,education
+EDU069,Onye nkuzi nyochara ọrụ ụmụ akwụkwọ.,The teacher checked the students' work.,education
+EDU070,Onye nkuzi nyere akara.,The teacher gave marks.,education
+EDU071,Nwa akwụkwọ ahụ nwetara akara dị elu.,The student got a high mark.,education
+EDU072,Ọrụ ya dị mma.,His work is good.,education
+EDU073,Ụmụ akwụkwọ na-asọmpi n'ọmụmụ ihe.,The students compete in their studies.,education
+EDU074,Ọrụ siri ike na-eweta ihe ịga nke ọma.,Hard work brings success.,education
+EDU075,Ọ chọrọ ịga mahadum.,He wants to go to university.,education
+EDU076,Mahadum ahụ nwere ọtụtụ ụmụ akwụkwọ.,The university has many students.,education
+EDU077,Nwa akwụkwọ ahụ na-amụ sayensị kọmputa.,The student studies computer science.,education
+EDU078,Ọ na-amụ maka ule ya.,He is studying for his examination.,education
+EDU079,Ụmụ akwụkwọ mahadum na-eme nchọpụta.,University students conduct research.,education
+EDU080,Nchọpụta dị mkpa na agụmakwụkwọ.,Research is important in education.,education
+EDU081,Onye nkuzi mahadum kụziri klaasị.,The university lecturer taught the class.,education
+EDU082,Ụmụ akwụkwọ gara nkuzi.,The students attended the lecture.,education
+EDU083,Nkuzi ahụ bara uru.,The lecture was useful.,education
+EDU084,Ha debere ihe ọmụmụ ha.,They wrote down their lessons.,education
+EDU085,Ịntanetị na-enyere ụmụ akwụkwọ aka ịmụ ihe.,The internet helps students learn.,education
+EDU086,Ụmụ akwụkwọ na-eji kọmputa amụ ihe.,Students use computers to learn.,education
+EDU087,Ọmụmụ ihe n'ịntanetị na-ewu ewu.,Online learning is popular.,education
+EDU088,Nwa akwụkwọ ahụ gara klasị n'ịntanetị.,The student attended an online class.,education
+EDU089,Onye nkuzi zitere ihe ọmụmụ n'ịntanetị.,The teacher sent learning materials online.,education
+EDU090,Ụmụ akwụkwọ chọrọ ezigbo akụrụngwa.,Students need good learning resources.,education
+EDU091,Akwụkwọ na-enyere ụmụ akwụkwọ aka.,Books help students.,education
+EDU092,Ọmụmụ ihe chọrọ ndidi.,Learning requires patience.,education
+EDU093,Ọ dị mkpa ịmụ ihe kwa ụbọchị.,It is important to study every day.,education
+EDU094,Ụmụ akwụkwọ na-eme nke ọma.,The students are doing well.,education
+EDU095,Agụmakwụkwọ na-emeghe ụzọ maka ọdịnihu.,Education opens the way to the future.,education
+EDU096,Nwa akwụkwọ ahụ nwere nnukwu nrọ.,The student has a big dream.,education
+EDU097,Ọ chọrọ ịghọ onye nkuzi.,He wants to become a teacher.,education
+EDU098,Ọmụmụ ihe na-enyere mmadụ aka iru ihe mgbaru ọsọ ya.,Learning helps a person achieve their goals.,education
+EDU099,Ụmụ akwụkwọ kwesịrị ịrụsi ọrụ ike.,Students should work hard.,education
+EDU100,Agụmakwụkwọ bụ isi ihe na mmepe obodo.,Education is essential for community development.,education
