@@ -9,7 +9,6 @@ training_logs/
 results/
 experiments/
 
-*.pt
 *.bin
 *.ckpt
 
