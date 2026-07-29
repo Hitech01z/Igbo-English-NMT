@@ -1,0 +1,4 @@
+model,test_samples,exact_matches,exact_match_percentage,average_word_overlap_percentage,average_length_difference
+Baseline,98,4,4.08,39.86,1.19
+Round 1,98,2,2.04,39.78,1.42
+Round 2,98,1,1.02,35.7,1.41

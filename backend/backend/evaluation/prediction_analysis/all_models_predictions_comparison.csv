@@ -1,0 +1,99 @@
+igbo,reference,domain,Baseline_prediction,Baseline_overlap,Round 1_prediction,Round 1_overlap,Round 2_prediction,Round 2_overlap
+Agụụ na-agụ m.,I am hungry.,daily_conversation,i am sleepy.,0.6666666666666666,i am going to school.,0.6666666666666666,i am going home.,0.6666666666666666
+Ajụjụ a siri ike.,This question is difficult.,daily_conversation,this soil is a question.,0.5,this difficult.,0.5,this soil is a question.,0.5
+Akụkọ ọdịnala na-akụzi ọtụtụ ihe.,Traditional stories teach many things.,culture,many people use a community.,0.2,many traditional music.,0.4,the internet connects one.,0.0
+Anyị ga-ahụ gị echi.,We will see you tomorrow.,general,we will you tomorrow.,0.8,we will plant will plant crops tomorrow.,0.6,we will see you later.,0.8
+Anyị haziri ọrụ ubi nke ọma.,We organized the farm work well.,agriculture,we work well.,0.5,we should work together.,0.3333333333333333,we planted rice on the farm.,0.3333333333333333
+Anọ m n'ụlọ.,I am at home.,daily_conversation,i am at home.,1.0,i am going home.,0.75,i am going home.,0.75
+Data nwere ike ịdị mkpa.,Data can be important.,technology,can be is important.,0.75,learning is important.,0.25,can harm tell me.,0.25
+Dọkịta mere nyocha.,The doctor conducted an examination.,health,the doctor examines the doctor.,0.4,the doctor told him to learn.,0.4,the doctor told him to rest.,0.4
+Ebee ka ị na-aga?,Where are you going?,daily_conversation,where are you doing?,0.75,where are you?,0.5,where are you?,0.5
+"Ee, achọrọ m enyemaka.","Yes, I need help.",daily_conversation,"yes, i need help.",1.0,"yes, i need help.",1.0,"yes, i need help.",1.0
+Email na-enyere ndị mmadụ izipu ozi.,Email helps people send messages.,technology,people help a person achieve.,0.2,people help one another.,0.2,people respect one another.,0.2
+Emume ọdịnala ahụ malitere n'ụtụtụ.,The traditional celebration began in the morning.,culture,the morning of the morning.,0.3333333333333333,the celebration took place in the morning.,0.6666666666666666,the traditional clothing is beautiful.,0.3333333333333333
+Ewu ahụ riri ahịhịa.,The goat ate grass.,agriculture,weeds is popular.,0.0,the classroom is popular.,0.25,the cow is preparing for the farm.,0.25
+Ezinụlọ ahụ na-asọpụrụ omenala ha.,The family respects their traditions.,culture,they sold many culture.,0.0,they gave the family food for the family.,0.4,they started the family.,0.2
+Ezinụlọ ahụ na-ekpe ekpere ọnụ.,The family prays together.,religion,the family is the family.,0.5,the family ate together.,0.75,the family ate together.,0.75
+Gbururu na-emebi gburugburu ebe obibi.,Pollution damages the environment.,government,disasters damage farms.,0.0,the doctor told a visitor.,0.25,the environment our hands.,0.25
+Geography na-akụzi banyere ụwa.,Geography teaches about the world.,education,religion teaches peace.,0.2,the students are learning a person.,0.2,the future will be dangerous.,0.2
+Gọọmenti na-anakọta ụtụ isi.,The government collects taxes.,government,the government supports public services.,0.5,the government supports public has a community.,0.5,the government protects the bank.,0.5
+Ha chọrọ ego iji gbasaa azụmahịa.,They need money to expand the business.,business,they want to know what their business.,0.42857142857142855,they want to increase profit.,0.2857142857142857,they want to improve their service.,0.2857142857142857
+Ha debere ihe ọmụmụ ha.,They wrote down their lessons.,education,they want to their learning.,0.4,they want to increase be ancestors.,0.2,they pray their their their their their their their their their their their.,0.4
+Ha ji igwe ewe ihe ubi.,They used a machine to harvest the crops.,agriculture,they used chemicals a person.,0.375,they sold,0.125,they planted maize.,0.125
+Ha ji obi ụtọ mee emume ahụ.,They celebrated happily.,culture,they used fertilizer to the food.,0.3333333333333333,they sold the market.,0.3333333333333333,they removed weeds from the celebration.,0.3333333333333333
+Ha na-akụ akwụkwọ nri.,They are planting vegetables.,agriculture,they used food.,0.25,they sold vegetables at the vegetables.,0.5,they sold vegetables at the celebration.,0.25
+Ha na-amụ sayensị.,They study science.,education,they study their learning.,0.6666666666666666,they study their culture.,0.6666666666666666,they study their they.,0.6666666666666666
+Ha na-ewe ihe ubi n'oge.,They harvest the crops on time.,agriculture,they irrigate during the farm.,0.3333333333333333,they sold,0.16666666666666666,they store the harvest in the farm.,0.5
+Ha nabatara ọbịa nke ọma.,They welcomed the visitor warmly.,culture,they a good governance of the a good morning.,0.4,they want to take good.,0.2,they sold their the farm.,0.4
+Ha rụchara ọrụ ubi tupu mmiri amalite.,They finished the farm work before the rain started.,agriculture,they work.,0.125,they sold,0.125,they did group work.,0.125
+Ji ahụ buru ibu.,That yam is big.,agriculture,the file is easy.,0.25,the price of the product is low.,0.25,the illness started a person ' s the morning.,0.0
+Kedu oge ọ bụ?,What time is it?,daily_conversation,he is part of?,0.25,he is a you?,0.25,it is important to respect their service.,0.25
+Koodu ahụ na-arụ ọrụ nke ọma.,The code works well.,technology,the works well.,0.75,the company operates in the body.,0.25,the company is enjoyable.,0.25
+Kọmputa bụ ngwaọrụ dị mkpa.,A computer is an important device.,technology,computer is important to use a computer of our.,0.6666666666666666,computer hardware is important.,0.3333333333333333,tradition is an important part of culture.,0.5
+"Mba, achọghị m ihe ọ bụla.","No, I do not need anything.",general,"no, i do not need to know.",0.8333333333333334,i do not know.,0.5,he has a programming language.,0.0
+"Mba, aghọtaghị m.","No, I do not understand.",daily_conversation,"no, i do not need help.",0.8,"no, i do not have time.",0.8,"no, i do not need the farm.",0.8
+Mmemme ahụ na-enyere ọtụtụ mmadụ aka.,The program helps many people.,government,many people help.,0.2,many people help one another.,0.2,many people help the body.,0.4
+Ndị enyi nyere ya nkwado.,His friends gave him support.,health,the celebration gave him medicine.,0.4,the teacher gave advice.,0.2,the doctor gave him medicine.,0.4
+Ndị isi kpọrọ nzukọ.,The leaders called a meeting.,government,leaders received a person.,0.4,the citizens is looking for the body.,0.2,leaders should be accountable.,0.2
+Ndị mmadụ debara aha ha.,People registered their names.,government,people seek a book.,0.25,people should use technology responsibly.,0.25,people respect one another.,0.25
+Ndị mmadụ kwesịrị ibi ndụ n'ịhụnanya na udo.,People should live in love and peace.,religion,people should live in the people.,0.5714285714285714,people should use technology responsibly.,0.2857142857142857,people seek peace.,0.2857142857142857
+Ndị mmadụ kwesịrị inyere ibe ha aka.,People should help one another.,religion,people should help one another.,1.0,people should respect one another ' s beliefs.,0.6,people respect one another.,0.6
+Ndị mmadụ na-atụ anya ezi ọchịchị.,People expect good governance.,government,people want to improve their in the body.,0.25,people wore traditional food for the people.,0.25,people wore beautiful clothes.,0.25
+Ndị mmadụ na-enye ibe ha ekele n'emume.,People greet one another at celebrations.,culture,people dance at celebrations.,0.5,people respect one another at home.,0.6666666666666666,people dance at celebrations.,0.5
+Ndị okenye na-akụzi ezi omume.,Elders teach good behavior.,religion,the music is part of the community.,0.0,good behavior helps the program.,0.25,traditional clothing.,0.0
+Ndị okenye na-akụziri ụmụaka akụkọ ọdịnala.,Elders teach children traditional stories.,culture,children should learn their children.,0.2,children elders their culture.,0.4,elders tell stories about the past.,0.2
+Ngwaahịa a dị mma.,This product is good.,business,this product is good.,1.0,this is good.,0.75,this soil is good.,0.75
+Ngwaahịa ahụ adịghị mma.,The product is not good.,business,the product is good.,0.8,the product is not good.,1.0,the product came from another.,0.4
+Ngwaahịa ọhụrụ ahụ dị n'ahịa.,The new product is in the market.,business,the product is a product.,0.5,the product is new on the product.,0.6666666666666666,the product is high.,0.5
+Nje kọmputa nwere ike imebi data.,Computer viruses can damage data.,technology,can a computer to stop.,0.4,"no, i do not have time.",0.0,leaders can harm crops.,0.2
+Nri ọdịnala bụ akụkụ nke omenala.,Traditional food is part of culture.,culture,tradition is part of igbo culture.,0.6666666666666666,tradition is an important part of culture.,0.6666666666666666,tradition is an important part of culture.,0.6666666666666666
+Nọọsụ na-enyere onye ọrịa aka.,The nurse helps the patient.,health,the patient helps a person.,0.5,the patient takes care of the patient.,0.5,the programmer writes helps.,0.25
+Obi dịkwa m ụtọ izute gị.,I am also happy to meet you.,daily_conversation,i am happy to meet you.,0.8571428571428571,i am leaving now.,0.2857142857142857,i am going home.,0.2857142857142857
+Obiọma dị mkpa n'etiti ndị mmadụ.,Kindness is important among people.,religion,people seek important in a good at celebrations.,0.2,people respect others.,0.0,people respect important in a community.,0.2
+Ofufe ahụ malitere n'oge.,The worship service started on time.,religion,the worship service during the worship service.,0.5,the place of worship service.,0.3333333333333333,the worship service on time.,0.8333333333333334
+Omenala na-agbanwe ka oge na-aga.,Culture changes over time.,culture,culture connects different generations.,0.25,elders is part of the database.,0.0,education opens the future will be culture.,0.0
+Onye ahịa natara ngwaahịa ya.,The customer received his product.,business,the customer paid for the product.,0.6,the customer paid for the product.,0.6,the product came from his product.,0.6
+Onye ahịa nyere echiche ya.,The customer gave his opinion.,business,the customer gave advice.,0.6,the customer gave advice.,0.6,the customer called the product.,0.4
+Onye ahụ chọrọ akwụkwọ ikike.,That person needs a license.,government,the student needs help.,0.2,the student needs help.,0.2,the teacher answered the book.,0.0
+Onye nkuzi dere n'elu bọọdụ.,The teacher wrote on the board.,education,the teacher gave marks.,0.4,the teacher explained the teacher explained the topic.,0.4,the teacher stood in front of the classroom.,0.4
+Onye nkuzi jụrụ ajụjụ.,The teacher asked a question.,education,the teacher gave marks.,0.4,the teacher answered the teacher gave.,0.4,the teacher gave advice.,0.4
+Onye nkuzi nọ na klaasị.,The teacher is in the classroom.,education,the teacher stood in their culture.,0.6,the teacher stood in front of the classroom.,0.8,the teacher gave them homework.,0.4
+Onye ọrịa chọrọ nyocha ọzọ.,The patient needs another test.,health,the patient want to rest.,0.4,the patient should take the patient.,0.4,the patient should requires regular.,0.4
+Onye ọrụ ugbo na-eji hoe arụ ọrụ.,The farmer uses a hoe to work.,agriculture,the farmer uses the farmer works hard.,0.42857142857142855,the farmer is a community.,0.42857142857142855,the farmer works hard.,0.2857142857142857
+Onye ọrụ ugbo rụziri igwe ya.,The farmer repaired his machine.,agriculture,the farmer bought the farmer bought a tractor.,0.4,the farmer raises his harvest.,0.6,the farmer bought a tractor.,0.4
+Osisi chọrọ ìhè anyanwụ.,Plants need sunlight.,agriculture,want to know.,0.0,the family want to university.,0.0,that bag of maize.,0.0
+Robot nwere ike ịrụ ụfọdụ ọrụ.,A robot can perform some tasks.,technology,some diseases can be prevented.,0.3333333333333333,hard work for a person.,0.16666666666666666,some jobs use machines.,0.16666666666666666
+Traktọ ahụ na-akọ ala.,The tractor ploughs the land.,agriculture,a tractor.,0.0,the market research was useful.,0.25,that idea is good.,0.0
+Ị ghọtara?,Do you understand?,daily_conversation,you are you?,0.3333333333333333,do you have time?,0.6666666666666666,tell me when you something.,0.3333333333333333
+Ịdị ọcha na-enyere aka igbochi ọrịa.,Cleanliness helps prevent disease.,health,learning helps a person.,0.25,cleanliness helps prevent germs.,0.75,cleanliness helps prevent germs.,0.75
+Ịgbaghara mmadụ bụ ihe ọma.,Forgiving a person is good.,religion,people a good quality.,0.2,people is a person ' s good.,0.8,people use a community.,0.2
+Ịgụ akwụkwọ na-eme ka mmadụ mara ihe.,Reading makes a person knowledgeable.,education,technology good planning.,0.0,people read the students are still.,0.0,people go to school.,0.0
+Ịhụnanya na obiọma na-eme ka ụwa ka mma.,Love and kindness make the world better.,religion,what is good behavior help.,0.0,the farmer sold his makes.,0.14285714285714285,parents teach their children.,0.0
+Ịhụnanya na-eme ka ndị mmadụ dịrị n'otu.,Love brings people together.,religion,people seek a person traditional clothing.,0.25,sharing food brings people together.,0.75,people seek a person who breaks the celebration.,0.25
+Ịkụ ihe n'ụzọ ziri ezi na-abawanye ihe ubi.,Proper planting increases the harvest.,agriculture,the leader is a person.,0.2,the family is not working.,0.2,the harvest in a warehouse.,0.2
+Ịrụkọ ọrụ ọnụ na-enyere ụmụ akwụkwọ aka.,Working together helps students.,education,the students work together.,0.0,the students work together.,0.0,farming requires patience.,0.0
+Ọ bịara n'ụtụtụ.,He came in the morning.,general,he sent an online.,0.2,he returned home.,0.2,he is learning in a morning.,0.6
+Ọ bụ ezigbo enyi m.,He is my good friend.,general,he is good for a good quality.,0.6,i am going to school.,0.0,he is part of a community.,0.4
+Ọ dị mkpa ichekwa data.,It is important to protect data.,technology,it is important to keep a community.,0.6666666666666666,it is important to avoid too much stress.,0.6666666666666666,it is important to learn new skills.,0.6666666666666666
+Ọ dị mkpa.,It is important.,general,it is important to learn.,0.6666666666666666,it is important to avoid too much stress.,0.6666666666666666,it is important to learn to learn to learn.,0.6666666666666666
+Ọ masịghị m.,I do not like it.,general,i need to drink.,0.2,i am going to learn.,0.2,i like it.,0.6
+Ọ masịrị ya ịgụ akwụkwọ.,He likes reading.,education,he received his document.,0.3333333333333333,he forgave his his his hands.,0.3333333333333333,he always take his body.,0.3333333333333333
+Ọ mụtara nkà ọhụrụ.,He learned a new skill.,business,he learned new.,0.4,he learned new skills.,0.6,he learned something new.,0.4
+Ọ na-aga ọrụ.,He is going to work.,daily_conversation,he works part.,0.2,he works to work.,0.6,he is learning to work.,0.8
+Ọ na-arụ ọrụ n'ụlọ ọrụ.,He works in an office.,business,he works in a person.,0.6,he works part time.,0.4,he returned home.,0.2
+Ọ na-eji ekwentị kpọọ enyi ya.,He uses his phone to call his friend.,technology,he uses the phone.,0.2857142857142857,he uses the phone.,0.2857142857142857,he uses a phone.,0.2857142857142857
+Ọ na-eji teknụzụ webụ arụ ọrụ.,He works with web technology.,technology,he uses a person.,0.2,he uses the file.,0.2,he uses a computer to work.,0.2
+Ọ na-ekwu eziokwu.,He is telling the truth.,general,he uses a website.,0.2,he has a fever.,0.2,he always helps others.,0.2
+Ọrịa ahụ kwụsịrị mgbe ọgwụgwọ gasịrị.,The illness stopped after treatment.,health,the body needs help.,0.2,the patient should take the patient.,0.2,the traditional clothing is beautiful.,0.2
+Ọrụ a chọrọ nkà.,This job requires skills.,business,this job requires experience.,0.75,this job requires experience.,0.75,this job requires experience.,0.75
+Ọrụ ugbo nwere ihe ịma aka.,Farming has challenges.,agriculture,the farmers work.,0.0,the farmer has experience.,0.3333333333333333,farmers can harm the community.,0.0
+Ọtụtụ ndị na-amalite obere azụmahịa.,Many people start small businesses.,business,the business provides many people.,0.2,many people help one another.,0.4,many people depend.,0.4
+Ọzụzụ anụ ụlọ na-eweta ego.,Livestock farming brings income.,agriculture,they used fertilizer to the bank.,0.0,we should listen to school.,0.0,that idea is good.,0.0
+Ụlọ ahịa ahụ meghere n'ụtụtụ.,The shop opened in the morning.,business,the morning.,0.4,the customer paid at the morning.,0.4,the company opened in the morning.,0.8
+Ụlọ ahụ jupụtara n'isi nri.,The house was filled with the smell of food.,culture,the leader made a warehouse.,0.125,the company opened in the bank.,0.125,the company at home.,0.125
+Ụlọ akwụkwọ ahụ dị n'obodo.,The school is in the town.,education,the student is at home.,0.4,the school is on the school.,0.6,the student is at home.,0.4
+Ụlọ ọrụ ahụ kwalitere ngwaahịa ya.,The company promoted its product.,business,the company received his work.,0.4,the company sells products.,0.4,the company opened a new branch.,0.4
+Ụmụ akwụkwọ ghọtara ihe ọmụmụ ahụ.,The students understood the lesson.,education,the students are learning helps students.,0.5,the students are learning the students.,0.5,the students study at home.,0.5
+Ụmụaka kwesịrị ịmụta ezi omume.,Children should learn good behavior.,religion,children should learn their culture.,0.6,children should learn their language.,0.6,the children should tell has a long history.,0.4
+Ụmụaka na-ekele ndị okenye.,Children greet elders.,culture,children should learn their the their children.,0.3333333333333333,children should know their children ' s elders.,0.6666666666666666,children learn their culture.,0.3333333333333333
+Ụzụ nwere uru na ọghọm.,Technology has advantages and disadvantages.,technology,technology has a fever.,0.4,the technology has a new hospital.,0.4,technology helps future will see jobs.,0.2

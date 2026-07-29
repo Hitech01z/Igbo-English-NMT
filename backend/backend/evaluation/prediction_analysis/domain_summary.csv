@@ -1,0 +1,13 @@
+model,domain,test_samples,exact_matches,exact_match_percentage,average_word_overlap_percentage,average_length_difference,average_reference_length,average_prediction_length
+Baseline,agriculture,14,0,0.0,20.44,1.71,5.21,4.21
+Baseline,business,12,1,8.33,55.65,0.92,5.25,4.5
+Baseline,culture,11,0,0.0,30.38,1.82,5.27,5.45
+Baseline,daily_conversation,10,2,20.0,63.57,0.5,4.3,4.2
+Baseline,education,11,0,0.0,35.45,1.0,4.82,4.36
+Baseline,general,7,0,0.0,50.0,1.29,4.86,5.0
+Baseline,government,7,0,0.0,25.71,1.43,4.43,4.43
+Baseline,health,6,0,0.0,35.83,0.17,4.83,4.67
+Baseline,religion,10,1,10.0,38.21,1.4,5.2,5.8
+Baseline,technology,10,0,0.0,46.52,1.2,5.4,5.0
+Round 1,unknown,98,2,2.04,39.78,1.42,5.0,5.09
+Round 2,unknown,98,1,1.02,35.7,1.41,5.0,5.0
